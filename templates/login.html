@@ -1,0 +1,72 @@
+{% extends 'base.html' %}
+
+{% block Css %}
+<link rel="stylesheet" type="text/css" href="/static/css/login.css">
+{% endblock %}
+
+{% block title %}
+Login
+{% endblock %}
+
+{% block main %}
+<div class="test">
+	<form method="POST" accept-charset="utf-8" autocomplete="off" role="form" class="form-horizonal">
+		{{ form.hidden_tag() }}
+		<div class="form-group">
+			<label for="username">Username</label>
+			{{ form.username(class="form-control", id="username", type="text", placeholder="Username") }}
+		</div>
+		<div class="form-group">
+			<label for="password">Password</label>
+			{{ form.password(class="form-control", id="password", placeholder="password") }}
+		</div>
+
+		<div class="row error_pos">
+					<ul>
+					{% for messages in get_flashed_messages() %}
+						<li class="text_small text-left">{{ messages }}</li>
+					{% endfor %}
+					{% for m in form.errors.values() %}
+						{% for i in m %}
+						<li class="text_small text-left">{{ i }}</li>
+						{% endfor %}
+					{% endfor %}
+					</ul>
+		</div>
+
+		<div class="row checkbox_pos">
+			<div class="custom-control form-control-lg custom-checkbox">
+
+				{{ form.remember_me(class_="custom-control-input")}}
+				<label class="custom-control-label" type="checkbox" for="remember_me">
+					Remember me
+				</label>
+			</div>
+		</div>
+		<div class="row dis">
+
+			{{ form.submit(value="login", class="fortest btn btn-primary")}}
+
+			<button type="register" class="btn btn-primary btn-dis" onclick="location.href='{{ url_for('register') }}'">Register</button>
+			<small id="forget-password" class="form-text text-muted pos"><a href="/">忘記密碼?</a></small>
+		</div>
+	</form>
+</div>
+
+
+<section class="one">
+  <div class="wrapper"></div>
+</section>
+<section class="two">
+  <div class="wrapper"></div>
+</section>
+
+<section class="three">
+  <div class="wrapper"></div>
+</section>
+
+<section class="four">
+  <div class="wrapper"></div>
+</section>
+
+{% endblock %}

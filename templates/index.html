@@ -1,10 +1,158 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Hello Page</title>
-</head>
-<body>
-    {{ question }}
-</body>
-</html>
+{% extends 'base.html' %}
+
+{% block title %}
+Home Page
+{% endblock %}
+
+{% block Css %}
+<link rel="stylesheet" type="text/css" href="../static/css/index.css">
+<link rel="stylesheet" type="text/css" href="../static/css/Rish_block.css">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Playball">
+{% endblock %}
+
+{% block main %}
+<div class="container-fluid">
+	<!-- <div class="Rish_main">
+		<div class="Rish_block_main">
+			<div class="block great h1 cyanblue">
+				<div class="sub">
+					<div class="block_vertical_main">
+						<div class="block_vertical_box">
+							<div class="title">
+								Welcome To FJU CPC
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div> -->
+
+	<div class="row">
+		<div class="col-md-12 col-sm-12 col-lg-12 col-xl-12">
+			<div class="card">
+				<div class="card-header title">
+					公告
+				</div>
+				<div class="card-body text">
+					<table class="table table-hover table-condensed table-striped">
+						<thead>
+							<tr>
+								<th scope="col-md-5 col-sm-5 col-lg-5 col-xl-5">TITLE</th>
+								<th scope="col-md-3 col-sm-3 col-lg-3 col-xl-3">Time</th>
+								<th scope="col-md-3 col-sm-3 col-lg-3 col-xl-3">Author</th>
+							</tr>
+						</thead>
+						<tbody>
+							{% if announce|length < 5 %}
+								{% for i in range(0, announce|length) %}
+								<tr>
+									<td><a href="./announce/{{ announce[i].announce_id }}">{{ announce[i].title }}</a></td>
+									<td>{{ announce[i].time }}</td>
+									<td>{{ announce[i].name }} </td>
+								</tr>
+								{% endfor %}
+							{% else %}
+								{% for i in range(0,5) %}
+								<tr>
+									<td><a href="./announce/{{ announce[i].announce_id }}">{{ announce[i].title }}</a></td>
+									<td>{{ announce[i].time }}</td>
+									<td>{{ announce[i].name }} </td>
+								</tr>
+								{% endfor %}
+							{% endif %}
+
+						</tbody>
+					</table>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-6 col-sm-6 col-lg-6 col-xl-6 dis">
+			<div class="card">
+				<div class="card-header title">
+					Recent Problems
+				</div>
+				<div class="card-body text">
+					<table class="table table-hover table-condensed table-striped">
+						<thead>
+							<tr>
+								<th>Title</th>
+								<th>Time</th>
+								<th>Author</th>
+							</tr>
+						</thead>
+						<tbody>
+							{% if questions|length < 5 %}
+								{% for i in range(0, questions|length) %}
+								<tr>
+									<td><a href="{{ url_for('problem', pid=questions[i].problem_id) }}">{{ questions[i].problemName }}</a></td>
+									<td>{{ questions[i].build_time }}</td>
+									<td>{{ name[i] }} </td>
+								</tr>
+								{% endfor %}
+							{% else %}
+								{% for i in range(0,5) %}
+									<tr>
+										<td><a href="{{ url_for('problem', pid=questions[i].problem_id) }}">{{ questions[i].problemName }}</a></td>
+										<td>{{ questions[i].build_time }}</td>
+										<td>{{ name[i] }} </td>
+									</tr>
+								{% endfor %}
+							{% endif %}
+						</tbody>
+					</table>
+				</div>
+			</div>
+		</div>
+
+		<div class="col-md-6 col-sm-6 col-lg-6 col-xl-6 dis">
+			<div class="card">
+				<div class="card-header title">
+					Rank list
+				</div>
+				<div class="card-body text">
+					<table class="table table-hover table-condensed table-striped">
+						<thead>
+							<tr>
+								<th>Rank</th>
+								<th>ID</th>
+								<th>AC</th>
+								<th>AC Rate</th>
+							</tr>
+						</thead>
+						<tbody>
+							{% if ranklist|length < 10 %}
+								{% for i in range(0, ranklist|length) %}
+									<tr>
+										<td>{{ i+1 }}</td>
+										<td><a href="{{ url_for('userinfo', name=ranklist[i][0]) }}">{{ ranklist[i][0] }}</a></td>
+										<td>{{ ranklist[i][4] }}</td>
+										{% if ranklist[i][1] != 0 %}
+										<td>{{ ranklist[i][2]/ranklist[i][1] * 10000 // 1 / 100 }}%</td>
+										{% else %}
+										<td>0.0%</td>
+										{% endif %}
+									</tr>
+								{% endfor %}
+							{% else %}
+								{% for i in range(0,10) %}
+									<tr>
+										<td>{{ i+1 }}</td>
+										<td><a href="{{ url_for('userinfo', name=ranklist[i][0]) }}">{{ ranklist[i][0] }}</a></td>
+										<td>{{ ranklist[i][4] }}</td>
+										{% if ranklist[i][1] != 0 %}
+										<td>{{ ranklist[i][2]/ranklist[i][1] * 10000 // 1 / 100 }}%</td>
+										{% else %}
+										<td>0.0%</td>
+										{% endif %}
+									</tr>
+								{% endfor %}
+							{% endif %}
+						</tbody>
+					</table>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+{% endblock %}

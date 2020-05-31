@@ -111,7 +111,7 @@ section {
 
 .one {
 
-	background-image: url(https://i.imgur.com/j4KYCHp.jpg);
+	
 
 	.wrapper:before {
 
@@ -120,7 +120,7 @@ section {
 }
 
 .two {
-	background-image: url(https://i.imgur.com/e2HHYUE.jpg);
+	
 
 		.wrapper:before {
 		background: #faaa54;
@@ -129,7 +129,7 @@ section {
 }
 
 .three {
-	background-image: url(https://i.imgur.com/sN8xQzU.jpg);
+	
 
 		.wrapper:before {
 		background: #6c320a;
@@ -138,7 +138,7 @@ section {
 }
 
 .four {
-	background-image: url(https://i.imgur.com/EN7Srwp.jpg);
+	
 
 	.wrapper:before {
 		background: #e4135d;

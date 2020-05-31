@@ -31,6 +31,7 @@ def problem_edit(pid):
     # current_user = Account.query.first() # debug
 
     cur_problem = Problem.query.get(pid)
+    print(cur_problem, current_user.uid)
     if not cur_problem:
         # TODO(roy4801): make this auto redirect
         return 'Worng pid'
@@ -106,7 +107,7 @@ def new_problem():
             if db_tag:
                 appen_tag.append(db_tag)
         # info
-        info = {'description': '', 'input_format': '', 'output_format': '', 'sample_input': '', 'sample_output': '', 'hint': '', 'source': '', 'td_description': '', 'td_num': 0}
+        info = {'description': '', 'input_format': '', 'output_format': '', 'sample_input': '', 'sample_output': '', 'hint': '', 'source': '', 'td_description': '', 'td_num': 2}
         info['description']   = form.description.data
         info['input_format']  = form.input_format.data
         info['output_format'] = form.output_format.data

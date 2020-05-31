@@ -630,3 +630,1244 @@ ValueError: invalid literal for int() with base 10: ''
 2020/05/29 01:59:06 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 13:59:06] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
 2020/05/29 03:13:56 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 15:13:56] "[37mGET / HTTP/1.1[0m" 200 -
 2020/05/29 03:26:12 - werkzeug - [INFO] 35.205.4.18 - - [29/May/2020 15:26:12] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/29 03:50:42 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 15:50:42] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2020/05/29 03:50:42 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 15:50:42] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020/05/29 03:50:42 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 15:50:42] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020/05/29 03:50:42 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 15:50:42] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020/05/29 03:50:42 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 15:50:42] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020/05/29 03:50:42 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 15:50:42] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2020/05/29 03:50:42 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 15:50:42] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020/05/29 03:50:45 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 15:50:45] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2020/05/29 03:50:45 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 15:50:45] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020/05/29 03:50:45 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 15:50:45] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020/05/29 03:50:45 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 15:50:45] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020/05/29 03:50:45 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 15:50:45] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020/05/29 03:50:45 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 15:50:45] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2020/05/29 03:50:45 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 15:50:45] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020/05/29 03:52:51 - werkzeug - [INFO]  * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+2020/05/29 03:52:51 - werkzeug - [INFO]  * Restarting with stat
+2020/05/29 03:52:51 - werkzeug - [WARNING]  * Debugger is active!
+2020/05/29 03:52:51 - werkzeug - [INFO]  * Debugger PIN: 325-504-209
+2020/05/29 03:53:08 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 15:53:08] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/29 03:53:09 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 15:53:09] "[37mGET /static/css/template.css HTTP/1.1[0m" 200 -
+2020/05/29 03:53:09 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 15:53:09] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
+2020/05/29 03:53:09 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 15:53:09] "[37mGET /static/css/Rish_block.css HTTP/1.1[0m" 200 -
+2020/05/29 03:53:26 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 15:53:26] "[32mGET /submit HTTP/1.1[0m" 302 -
+2020/05/29 03:53:26 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 15:53:26] "[37mGET /login?next=%2Fsubmit HTTP/1.1[0m" 200 -
+2020/05/29 03:53:26 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 15:53:26] "[37mGET /static/css/login.css HTTP/1.1[0m" 200 -
+2020/05/29 03:53:32 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 15:53:32] "[32mPOST /login?next=%2Fsubmit HTTP/1.1[0m" 302 -
+2020/05/29 03:53:32 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 15:53:32] "[37mGET /submit HTTP/1.1[0m" 200 -
+2020/05/29 03:53:32 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 15:53:32] "[37mGET /static/css/submit.css HTTP/1.1[0m" 200 -
+2020/05/29 03:53:36 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 15:53:36] "[37mGET /submit HTTP/1.1[0m" 200 -
+2020/05/29 03:53:38 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 15:53:38] "[37mGET /submit HTTP/1.1[0m" 200 -
+2020/05/29 03:53:39 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 15:53:39] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/29 03:53:39 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 15:53:39] "[37mGET /static/css/submission.css HTTP/1.1[0m" 200 -
+2020/05/29 03:54:03 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 15:54:03] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/29 04:37:35 - werkzeug - [INFO] 46.177.201.28 - - [29/May/2020 16:37:35] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/29 05:49:21 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 17:49:21] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/29 05:49:21 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 17:49:21] "[37mGET /static/css/template.css HTTP/1.1[0m" 200 -
+2020/05/29 05:49:21 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 17:49:21] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
+2020/05/29 05:49:21 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 17:49:21] "[37mGET /static/css/Rish_block.css HTTP/1.1[0m" 200 -
+2020/05/29 05:50:17 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 17:50:17] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/29 05:53:54 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 17:53:54] "[37mGET /announce_list HTTP/1.1[0m" 200 -
+2020/05/29 06:06:46 - werkzeug - [INFO] 180.218.52.117 - - [29/May/2020 18:06:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020/05/29 06:09:11 - werkzeug - [INFO] 140.136.57.85 - - [29/May/2020 18:09:11] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/29 06:09:11 - werkzeug - [INFO] 140.136.57.85 - - [29/May/2020 18:09:11] "[37mGET /static/css/template.css HTTP/1.1[0m" 200 -
+2020/05/29 06:09:11 - werkzeug - [INFO] 140.136.57.85 - - [29/May/2020 18:09:11] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
+2020/05/29 06:09:11 - werkzeug - [INFO] 140.136.57.85 - - [29/May/2020 18:09:11] "[37mGET /static/css/Rish_block.css HTTP/1.1[0m" 200 -
+2020/05/29 06:09:13 - werkzeug - [INFO] 140.136.57.85 - - [29/May/2020 18:09:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020/05/29 06:09:23 - werkzeug - [INFO] 140.136.57.85 - - [29/May/2020 18:09:23] "[37mGET /userinfo/roy4801 HTTP/1.1[0m" 200 -
+2020/05/29 06:09:24 - werkzeug - [INFO] 140.136.57.85 - - [29/May/2020 18:09:24] "[37mGET /static/css/setting.css HTTP/1.1[0m" 200 -
+2020/05/29 06:09:24 - werkzeug - [INFO] 140.136.57.85 - - [29/May/2020 18:09:24] "[37mGET /static/js/jdenticon-2.1.1.min.js HTTP/1.1[0m" 200 -
+2020/05/29 06:09:24 - werkzeug - [INFO] 140.136.57.85 - - [29/May/2020 18:09:24] "[37mGET /static/js/jdenticon-2.1.1.min.js.map HTTP/1.1[0m" 200 -
+2020/05/29 06:09:33 - werkzeug - [INFO] 140.136.57.85 - - [29/May/2020 18:09:33] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/29 06:09:34 - werkzeug - [INFO] 140.136.57.85 - - [29/May/2020 18:09:34] "[37mGET /static/css/submission.css HTTP/1.1[0m" 200 -
+2020/05/29 06:09:40 - werkzeug - [INFO] 140.136.57.85 - - [29/May/2020 18:09:40] "[37mGET /announce_list HTTP/1.1[0m" 200 -
+2020/05/29 06:09:44 - werkzeug - [INFO] 140.136.57.85 - - [29/May/2020 18:09:44] "[37mGET /announce/1 HTTP/1.1[0m" 200 -
+2020/05/29 06:09:44 - werkzeug - [INFO] 140.136.57.85 - - [29/May/2020 18:09:44] "[37mGET /static/css/common.css HTTP/1.1[0m" 200 -
+2020/05/29 07:13:44 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:13:44] "[37mGET /announce_list HTTP/1.1[0m" 200 -
+2020/05/29 07:13:46 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:13:46] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/29 07:13:51 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:13:51] "[37mGET /announce HTTP/1.1[0m" 200 -
+2020/05/29 07:14:32 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:14:32] "[37mPOST /announce HTTP/1.1[0m" 200 -
+2020/05/29 07:14:33 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:14:33] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/29 07:14:36 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:14:36] "[37mGET /announce/2 HTTP/1.1[0m" 200 -
+2020/05/29 07:14:36 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:14:36] "[37mGET /static/css/common.css HTTP/1.1[0m" 200 -
+2020/05/29 07:14:40 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:14:40] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/29 07:22:42 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:22:42] "[37mGET /userinfo/erichsu HTTP/1.1[0m" 200 -
+2020/05/29 07:22:42 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:22:42] "[37mGET /static/css/setting.css HTTP/1.1[0m" 200 -
+2020/05/29 07:22:42 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:22:42] "[37mGET /static/js/jdenticon-2.1.1.min.js HTTP/1.1[0m" 200 -
+2020/05/29 07:22:42 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:22:42] "[37mGET /static/js/jdenticon-2.1.1.min.js.map HTTP/1.1[0m" 200 -
+2020/05/29 07:22:51 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:22:51] "[35m[1mGET /userinfo/roy0418 HTTP/1.1[0m" 500 -
+2020/05/29 07:22:51 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:22:51] "[37mGET /userinfo/roy0418?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020/05/29 07:22:51 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:22:51] "[37mGET /userinfo/roy0418?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020/05/29 07:22:51 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:22:51] "[37mGET /userinfo/roy0418?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020/05/29 07:22:51 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:22:51] "[37mGET /userinfo/roy0418?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2020/05/29 07:22:51 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:22:51] "[37mGET /userinfo/roy0418?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020/05/29 07:22:51 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:22:51] "[37mGET /userinfo/roy0418?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020/05/29 07:22:55 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:22:55] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/29 07:23:04 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:23:04] "[37mGET /userinfo/roy4801 HTTP/1.1[0m" 200 -
+2020/05/29 07:23:14 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:23:14] "[37mGET /new_problem HTTP/1.1[0m" 200 -
+2020/05/29 07:23:39 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:23:39] "[37mPOST /new_problem HTTP/1.1[0m" 200 -
+2020/05/29 07:23:42 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:23:42] "[37mGET /new_problem HTTP/1.1[0m" 200 -
+2020/05/29 07:23:43 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:23:43] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/29 07:23:43 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:23:43] "[37mGET /static/css/submission.css HTTP/1.1[0m" 200 -
+2020/05/29 07:34:56 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:34:56] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/29 07:35:38 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:35:38] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/29 07:35:39 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:35:39] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/29 07:35:40 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:35:40] "[37mGET /submit HTTP/1.1[0m" 200 -
+2020/05/29 07:35:40 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:35:40] "[37mGET /static/css/submit.css HTTP/1.1[0m" 200 -
+2020/05/29 07:35:41 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:35:41] "[37mGET /announce_list HTTP/1.1[0m" 200 -
+2020/05/29 07:35:42 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:35:42] "[37mGET /submit HTTP/1.1[0m" 200 -
+2020/05/29 07:35:46 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:35:46] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/29 07:35:49 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:35:49] "[37mGET /submit HTTP/1.1[0m" 200 -
+2020/05/29 07:37:09 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:37:09] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/29 07:37:10 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:37:10] "[37mGET /submit HTTP/1.1[0m" 200 -
+2020/05/29 07:37:33 - werkzeug - [ERROR] 64.227.69.125 - - [29/May/2020 19:37:33] code 400, message Bad request version ('À\x14À')
+2020/05/29 07:37:33 - werkzeug - [INFO] 64.227.69.125 - - [29/May/2020 19:37:33] "[35m[1m u  q´Z\Én«½Ià$ÊÂ¨®lr§­QÂðÓ8¡ÞÄC  À/À+ÀÀÀÀ	ÀÀ[0m" HTTPStatus.BAD_REQUEST -
+2020/05/29 07:37:33 - werkzeug - [INFO] 64.227.69.125 - - [29/May/2020 19:37:33] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/29 07:37:48 - werkzeug - [INFO] 180.218.52.117 - - [29/May/2020 19:37:48] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/29 07:37:49 - werkzeug - [INFO] 180.218.52.117 - - [29/May/2020 19:37:49] "[37mGET /static/css/template.css HTTP/1.1[0m" 200 -
+2020/05/29 07:37:49 - werkzeug - [INFO] 180.218.52.117 - - [29/May/2020 19:37:49] "[37mGET /static/css/Rish_block.css HTTP/1.1[0m" 200 -
+2020/05/29 07:37:49 - werkzeug - [INFO] 180.218.52.117 - - [29/May/2020 19:37:49] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
+2020/05/29 07:37:49 - werkzeug - [INFO] 180.218.52.117 - - [29/May/2020 19:37:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020/05/29 07:37:52 - werkzeug - [INFO] 180.218.52.117 - - [29/May/2020 19:37:52] "[37mGET /announce/2 HTTP/1.1[0m" 200 -
+2020/05/29 07:37:53 - werkzeug - [INFO] 180.218.52.117 - - [29/May/2020 19:37:53] "[37mGET /static/css/common.css HTTP/1.1[0m" 200 -
+2020/05/29 07:37:59 - werkzeug - [INFO] 180.218.52.117 - - [29/May/2020 19:37:59] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/29 07:38:00 - werkzeug - [INFO] 180.218.52.117 - - [29/May/2020 19:38:00] "[37mGET /announce_list HTTP/1.1[0m" 200 -
+2020/05/29 07:38:02 - werkzeug - [INFO] 180.218.52.117 - - [29/May/2020 19:38:02] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/29 07:38:02 - werkzeug - [INFO] 180.218.52.117 - - [29/May/2020 19:38:02] "[37mGET /static/css/submission.css HTTP/1.1[0m" 200 -
+2020/05/29 07:38:05 - werkzeug - [INFO] 180.218.52.117 - - [29/May/2020 19:38:05] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/29 07:38:07 - werkzeug - [INFO] 180.218.52.117 - - [29/May/2020 19:38:07] "[37mPOST /problem_list HTTP/1.1[0m" 200 -
+2020/05/29 07:38:08 - werkzeug - [INFO] 180.218.52.117 - - [29/May/2020 19:38:08] "[37mGET /problem/1 HTTP/1.1[0m" 200 -
+2020/05/29 07:38:16 - werkzeug - [INFO] 180.218.52.117 - - [29/May/2020 19:38:16] "[37mGET /problem/1 HTTP/1.1[0m" 200 -
+2020/05/29 07:38:17 - werkzeug - [INFO] 180.218.52.117 - - [29/May/2020 19:38:17] "[32mGET /submit HTTP/1.1[0m" 302 -
+2020/05/29 07:38:17 - werkzeug - [INFO] 180.218.52.117 - - [29/May/2020 19:38:17] "[37mGET /login?next=%2Fsubmit HTTP/1.1[0m" 200 -
+2020/05/29 07:38:17 - werkzeug - [INFO] 180.218.52.117 - - [29/May/2020 19:38:17] "[37mGET /static/css/login.css HTTP/1.1[0m" 200 -
+2020/05/29 07:38:20 - werkzeug - [INFO] 180.218.52.117 - - [29/May/2020 19:38:20] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/29 07:38:28 - werkzeug - [INFO] 180.218.52.117 - - [29/May/2020 19:38:28] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/29 07:38:28 - werkzeug - [INFO] 180.218.52.117 - - [29/May/2020 19:38:28] "[37mGET /announce_list HTTP/1.1[0m" 200 -
+2020/05/29 07:38:29 - werkzeug - [INFO] 180.218.52.117 - - [29/May/2020 19:38:29] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/29 07:38:33 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:38:33] "[37mGET /submit HTTP/1.1[0m" 200 -
+2020/05/29 07:38:35 - werkzeug - [INFO] 180.218.52.117 - - [29/May/2020 19:38:35] "[37mGET /announce/2 HTTP/1.1[0m" 200 -
+2020/05/29 07:38:37 - werkzeug - [INFO] 180.218.52.117 - - [29/May/2020 19:38:37] "[37mGET /announce_list HTTP/1.1[0m" 200 -
+2020/05/29 07:38:39 - werkzeug - [INFO] 180.218.52.117 - - [29/May/2020 19:38:39] "[37mGET /announce/2 HTTP/1.1[0m" 200 -
+2020/05/29 07:38:39 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:38:39] "[37mGET /announce_list HTTP/1.1[0m" 200 -
+2020/05/29 07:38:40 - werkzeug - [INFO] 180.218.52.117 - - [29/May/2020 19:38:40] "[32mGET /announce_edit/2 HTTP/1.1[0m" 302 -
+2020/05/29 07:38:40 - werkzeug - [INFO] 180.218.52.117 - - [29/May/2020 19:38:40] "[37mGET /login?next=%2Fannounce_edit%2F2 HTTP/1.1[0m" 200 -
+2020/05/29 07:38:40 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:38:40] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/29 07:38:41 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:38:41] "[37mGET /submit HTTP/1.1[0m" 200 -
+2020/05/29 07:38:41 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:38:41] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/29 07:38:42 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:38:42] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/29 07:38:43 - werkzeug - [INFO] 180.218.52.117 - - [29/May/2020 19:38:43] "[37mGET /register HTTP/1.1[0m" 200 -
+2020/05/29 07:38:43 - werkzeug - [INFO] 180.218.52.117 - - [29/May/2020 19:38:43] "[37mGET /static/css/register.css HTTP/1.1[0m" 200 -
+2020/05/29 07:41:06 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:41:06] "[37mGET /submit HTTP/1.1[0m" 200 -
+2020/05/29 07:41:46 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 19:41:46] "[37mGET /submit HTTP/1.1[0m" 200 -
+2020/05/29 08:02:13 - werkzeug - [INFO] 38.104.215.130 - - [29/May/2020 20:02:13] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/29 08:19:33 - werkzeug - [INFO] 180.218.52.117 - - [29/May/2020 20:19:33] "[37mGET /register HTTP/1.1[0m" 200 -
+2020/05/29 08:19:33 - werkzeug - [INFO] 180.218.52.117 - - [29/May/2020 20:19:33] "[37mGET /static/css/template.css HTTP/1.1[0m" 200 -
+2020/05/29 08:19:33 - werkzeug - [INFO] 180.218.52.117 - - [29/May/2020 20:19:33] "[37mGET /static/css/register.css HTTP/1.1[0m" 200 -
+2020/05/29 08:19:34 - werkzeug - [INFO] 180.218.52.117 - - [29/May/2020 20:19:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020/05/29 08:25:53 - werkzeug - [INFO] 140.136.150.91 - - [29/May/2020 20:25:53] "[37mGET /submit HTTP/1.1[0m" 200 -
+2020/05/29 10:34:45 - werkzeug - [INFO] 186.213.4.249 - - [29/May/2020 22:34:45] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/29 10:37:39 - werkzeug - [INFO]  * Detected change in '/home/mscl/Desktop/FJCU_CPC_OJ/page/submit/submit.py', reloading
+2020/05/29 10:37:39 - werkzeug - [INFO]  * Restarting with stat
+2020/05/29 10:37:39 - werkzeug - [WARNING]  * Debugger is active!
+2020/05/29 10:37:39 - werkzeug - [INFO]  * Debugger PIN: 325-504-209
+2020/05/29 10:45:18 - werkzeug - [INFO] 121.121.121.244 - - [29/May/2020 22:45:18] "[37mGET / HTTP/1.0[0m" 200 -
+2020/05/30 12:41:55 - werkzeug - [INFO] 128.14.133.58 - - [30/May/2020 00:41:55] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 01:08:23 - werkzeug - [INFO] 180.218.52.117 - - [30/May/2020 01:08:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020/05/30 02:23:48 - werkzeug - [INFO] 193.86.101.191 - - [30/May/2020 02:23:48] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 03:00:20 - werkzeug - [INFO] 92.118.161.1 - - [30/May/2020 03:00:20] "[37mGET / HTTP/1.0[0m" 200 -
+2020/05/30 03:57:57 - werkzeug - [INFO] 159.203.128.47 - - [30/May/2020 03:57:57] "[37mGET / HTTP/1.0[0m" 200 -
+2020/05/30 04:19:43 - werkzeug - [INFO] 104.46.40.237 - - [30/May/2020 04:19:43] "[37mGET / HTTP/1.0[0m" 200 -
+2020/05/30 05:23:05 - werkzeug - [INFO] 202.9.127.242 - - [30/May/2020 05:23:05] "[37mGET / HTTP/1.0[0m" 200 -
+2020/05/30 05:58:03 - werkzeug - [ERROR] 195.3.147.56 - - [30/May/2020 05:58:03] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+2020/05/30 05:58:03 - werkzeug - [INFO] 195.3.147.56 - - [30/May/2020 05:58:03] "[35m[1m  /*à     Cookie: mstshash=Administr[0m" HTTPStatus.BAD_REQUEST -
+2020/05/30 06:38:20 - werkzeug - [INFO] 186.226.162.194 - - [30/May/2020 06:38:20] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 06:55:39 - werkzeug - [INFO] 191.97.33.30 - - [30/May/2020 06:55:39] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 06:59:53 - werkzeug - [INFO] 207.180.226.26 - - [30/May/2020 06:59:53] "[37mGET / HTTP/1.0[0m" 200 -
+2020/05/30 07:28:11 - werkzeug - [INFO] 203.210.84.122 - - [30/May/2020 07:28:11] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 09:02:10 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 09:02:10] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 09:02:11 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 09:02:11] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+2020/05/30 09:02:11 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 09:02:11] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
+2020/05/30 09:02:11 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 09:02:11] "[37mGET /static/css/Rish_block.css HTTP/1.1[0m" 200 -
+2020/05/30 09:02:16 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 09:02:16] "[37mGET /announce/2 HTTP/1.1[0m" 200 -
+2020/05/30 09:02:16 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 09:02:16] "[37mGET /static/css/common.css HTTP/1.1[0m" 200 -
+2020/05/30 09:02:20 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 09:02:20] "[32mGET /announce/1 HTTP/1.1[0m" 302 -
+2020/05/30 09:02:20 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 09:02:20] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 09:02:22 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 09:02:22] "[37mGET /announce/2 HTTP/1.1[0m" 200 -
+2020/05/30 09:02:24 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 09:02:24] "[32mGET /announce/3 HTTP/1.1[0m" 302 -
+2020/05/30 09:02:24 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 09:02:24] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 09:02:29 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 09:02:29] "[37mGET /announce_list HTTP/1.1[0m" 200 -
+2020/05/30 09:02:30 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 09:02:30] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 09:02:30 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 09:02:30] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 09:02:31 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 09:02:31] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 09:02:31 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 09:02:31] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 09:02:31 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 09:02:31] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 09:02:32 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 09:02:32] "[37mGET /announce_list HTTP/1.1[0m" 200 -
+2020/05/30 09:02:32 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 09:02:32] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 09:06:10 - werkzeug - [INFO]  * Detected change in '/home/mscl/Desktop/FJCU_CPC_OJ/judger/judge.py', reloading
+2020/05/30 09:06:10 - werkzeug - [INFO]  * Restarting with stat
+2020/05/30 09:06:11 - werkzeug - [WARNING]  * Debugger is active!
+2020/05/30 09:06:11 - werkzeug - [INFO]  * Debugger PIN: 325-504-209
+2020/05/30 09:06:13 - werkzeug - [INFO]  * Detected change in '/home/mscl/Desktop/FJCU_CPC_OJ/judger/judge.py', reloading
+2020/05/30 09:06:13 - werkzeug - [INFO]  * Restarting with stat
+2020/05/30 09:06:13 - werkzeug - [WARNING]  * Debugger is active!
+2020/05/30 09:06:13 - werkzeug - [INFO]  * Debugger PIN: 325-504-209
+2020/05/30 10:29:57 - werkzeug - [INFO] 180.218.52.117 - - [30/May/2020 10:29:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020/05/30 10:31:01 - werkzeug - [INFO] 198.108.66.209 - - [30/May/2020 10:31:01] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 11:04:37 - werkzeug - [INFO] 180.218.52.117 - - [30/May/2020 11:04:37] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 11:04:37 - werkzeug - [INFO] 180.218.52.117 - - [30/May/2020 11:04:37] "[37mGET /static/css/template.css HTTP/1.1[0m" 200 -
+2020/05/30 11:04:37 - werkzeug - [INFO] 180.218.52.117 - - [30/May/2020 11:04:37] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
+2020/05/30 11:04:37 - werkzeug - [INFO] 180.218.52.117 - - [30/May/2020 11:04:37] "[37mGET /static/css/Rish_block.css HTTP/1.1[0m" 200 -
+2020/05/30 11:04:42 - werkzeug - [INFO] 180.218.52.117 - - [30/May/2020 11:04:42] "[37mGET /announce/2 HTTP/1.1[0m" 200 -
+2020/05/30 11:04:42 - werkzeug - [INFO] 180.218.52.117 - - [30/May/2020 11:04:42] "[37mGET /static/css/common.css HTTP/1.1[0m" 200 -
+2020/05/30 11:04:45 - werkzeug - [INFO] 180.218.52.117 - - [30/May/2020 11:04:45] "[37mGET /announce/2 HTTP/1.1[0m" 200 -
+2020/05/30 01:07:03 - werkzeug - [INFO] 110.26.42.1 - - [30/May/2020 13:07:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020/05/30 01:08:57 - werkzeug - [INFO] 110.26.42.1 - - [30/May/2020 13:08:57] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 01:30:26 - werkzeug - [INFO] 159.89.167.80 - - [30/May/2020 13:30:26] "[37mGET / HTTP/1.0[0m" 200 -
+2020/05/30 01:34:25 - werkzeug - [INFO] 140.136.42.252 - - [30/May/2020 13:34:25] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 01:34:25 - werkzeug - [INFO] 140.136.42.252 - - [30/May/2020 13:34:25] "[37mGET /static/css/template.css HTTP/1.1[0m" 200 -
+2020/05/30 01:34:25 - werkzeug - [INFO] 140.136.42.252 - - [30/May/2020 13:34:25] "[37mGET /static/css/Rish_block.css HTTP/1.1[0m" 200 -
+2020/05/30 01:34:25 - werkzeug - [INFO] 140.136.42.252 - - [30/May/2020 13:34:25] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
+2020/05/30 01:34:26 - werkzeug - [INFO] 140.136.42.252 - - [30/May/2020 13:34:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020/05/30 01:34:31 - werkzeug - [INFO] 140.136.42.252 - - [30/May/2020 13:34:31] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 01:34:31 - werkzeug - [INFO] 140.136.42.252 - - [30/May/2020 13:34:31] "[37mGET /static/css/submission.css HTTP/1.1[0m" 200 -
+2020/05/30 01:34:33 - werkzeug - [INFO] 140.136.42.252 - - [30/May/2020 13:34:33] "[32mGET /submit HTTP/1.1[0m" 302 -
+2020/05/30 01:34:33 - werkzeug - [INFO] 140.136.42.252 - - [30/May/2020 13:34:33] "[37mGET /login?next=%2Fsubmit HTTP/1.1[0m" 200 -
+2020/05/30 01:34:33 - werkzeug - [INFO] 140.136.42.252 - - [30/May/2020 13:34:33] "[37mGET /static/css/login.css HTTP/1.1[0m" 200 -
+2020/05/30 01:34:37 - werkzeug - [INFO] 140.136.42.252 - - [30/May/2020 13:34:37] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/30 01:34:42 - werkzeug - [INFO] 140.136.42.252 - - [30/May/2020 13:34:42] "[37mGET /problem/1 HTTP/1.1[0m" 200 -
+2020/05/30 01:34:43 - werkzeug - [INFO] 140.136.42.252 - - [30/May/2020 13:34:43] "[37mGET /static/css/common.css HTTP/1.1[0m" 200 -
+2020/05/30 03:08:52 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:08:52] "[32mGET /submit HTTP/1.1[0m" 302 -
+2020/05/30 03:08:52 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:08:52] "[37mGET /login?next=%2Fsubmit HTTP/1.1[0m" 200 -
+2020/05/30 03:08:58 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:08:58] "[36mGET /static/css/login.css HTTP/1.1[0m" 304 -
+2020/05/30 03:08:58 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:08:58] "[37mGET /static/css/template.css HTTP/1.1[0m" 200 -
+2020/05/30 03:09:46 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:09:46] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 03:09:58 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:09:58] "[36mGET /static/css/index.css HTTP/1.1[0m" 304 -
+2020/05/30 03:10:22 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:10:22] "[36mGET /static/css/Rish_block.css HTTP/1.1[0m" 304 -
+2020/05/30 03:11:32 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:11:32] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 03:11:32 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:11:32] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 03:11:57 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:11:57] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 03:12:17 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:12:17] "[32mGET /submit HTTP/1.1[0m" 302 -
+2020/05/30 03:12:17 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:12:17] "[37mGET /login?next=%2Fsubmit HTTP/1.1[0m" 200 -
+2020/05/30 03:12:25 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:12:25] "[32mPOST /login?next=%2Fsubmit HTTP/1.1[0m" 302 -
+2020/05/30 03:12:27 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:12:27] "[37mGET /submit HTTP/1.1[0m" 200 -
+2020/05/30 03:12:28 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:12:28] "[36mGET /static/css/submit.css HTTP/1.1[0m" 304 -
+2020/05/30 03:12:40 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:12:40] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/30 03:12:42 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:12:42] "[36mGET /static/css/submission.css HTTP/1.1[0m" 304 -
+2020/05/30 03:12:46 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:12:46] "[37mGET /problem/1 HTTP/1.1[0m" 200 -
+2020/05/30 03:12:46 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:12:46] "[36mGET /static/css/common.css HTTP/1.1[0m" 304 -
+2020/05/30 03:12:49 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:12:49] "[37mGET /submit HTTP/1.1[0m" 200 -
+2020/05/30 03:12:59 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:12:59] "[37mGET /submit HTTP/1.1[0m" 200 -
+2020/05/30 03:13:11 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:13:11] "[37mGET /submit HTTP/1.1[0m" 200 -
+2020/05/30 03:13:57 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:13:57] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/30 03:13:58 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:13:58] "[37mGET /problem/1 HTTP/1.1[0m" 200 -
+2020/05/30 03:14:27 - Judger - [DEBUG] Add problem pid=1 subid=2
+2020/05/30 03:14:27 - Judger - [DEBUG] isolate box 0 inited
+2020/05/30 03:14:28 - Judger - [DEBUG] Thread 140407007106816 created
+2020/05/30 03:14:28 - Judger - [DEBUG] Box 0 - compile - Write `code.cpp`
+2020/05/30 03:14:28 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:14:28] "[32mPOST /submit HTTP/1.1[0m" 302 -
+2020/05/30 03:14:28 - Judger - [DEBUG] Box 0 - compile - Run compile cmd
+2020/05/30 03:14:28 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:14:28] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 03:14:28 - Judger - [DEBUG] Box 0 - compile - Copy the compile msg out
+2020/05/30 03:14:28 - Judger - [DEBUG] Box 0 - compile - Copy the compile_out
+2020/05/30 03:14:28 - Judger - [DEBUG] isolate box 0 cleanup
+2020/05/30 03:14:28 - Judger - [DEBUG] Result is AC
+2020/05/30 03:15:07 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:15:07] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 03:15:08 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:15:08] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 03:15:09 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:15:09] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 03:15:49 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:15:49] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 03:15:50 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:15:50] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 03:15:51 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:15:51] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 03:26:36 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:26:36] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 03:26:39 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:26:39] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/30 03:26:40 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:26:40] "[37mGET /problem/1 HTTP/1.1[0m" 200 -
+2020/05/30 03:27:33 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:27:33] "[37mGET /new_problem HTTP/1.1[0m" 200 -
+2020/05/30 03:28:28 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:28:28] "[37mGET /new_problem HTTP/1.1[0m" 200 -
+2020/05/30 03:28:53 - werkzeug - [INFO] 103.112.253.117 - - [30/May/2020 15:28:53] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 03:54:25 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:54:25] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 03:54:26 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:54:26] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/30 03:54:28 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:54:28] "[35m[1mGET /problem/1 HTTP/1.1[0m" 500 -
+2020/05/30 03:54:28 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:54:28] "[37mGET /problem/1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020/05/30 03:54:34 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:54:34] "[37mGET /problem/1?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020/05/30 03:54:34 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:54:34] "[37mGET /problem/1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020/05/30 03:54:35 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:54:35] "[37mGET /problem/1?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2020/05/30 03:54:35 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:54:35] "[37mGET /problem/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020/05/30 03:54:36 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 15:54:36] "[37mGET /problem/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020/05/30 04:05:54 - werkzeug - [INFO]  * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+2020/05/30 04:05:54 - werkzeug - [INFO]  * Restarting with stat
+2020/05/30 04:05:54 - werkzeug - [WARNING]  * Debugger is active!
+2020/05/30 04:05:54 - werkzeug - [INFO]  * Debugger PIN: 325-504-209
+2020/05/30 04:05:59 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 16:05:59] "[32mGET /problem/1 HTTP/1.1[0m" 302 -
+2020/05/30 04:05:59 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 16:05:59] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/30 04:06:04 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 16:06:04] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/30 04:06:05 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 16:06:05] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/30 04:06:06 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 16:06:06] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/30 04:06:09 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 16:06:09] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/30 04:06:12 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 16:06:12] "[37mGET /announce_list HTTP/1.1[0m" 200 -
+2020/05/30 04:06:13 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 16:06:13] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/30 04:06:40 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 16:06:40] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/30 04:06:50 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 16:06:50] "[37mPOST /login HTTP/1.1[0m" 200 -
+2020/05/30 04:06:51 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 16:06:51] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/30 04:06:53 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 16:06:53] "[37mGET /register HTTP/1.1[0m" 200 -
+2020/05/30 04:06:53 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 16:06:53] "[37mGET /static/css/register.css HTTP/1.1[0m" 200 -
+2020/05/30 04:07:17 - Register - [DEBUG] erichsu 123qwe111 chwnhsu@gmail.com
+2020/05/30 04:07:17 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 16:07:17] "[32mPOST /register HTTP/1.1[0m" 302 -
+2020/05/30 04:07:17 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 16:07:17] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/30 04:08:07 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 16:08:07] "[32mPOST /login HTTP/1.1[0m" 302 -
+2020/05/30 04:08:09 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 16:08:09] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 04:08:53 - werkzeug - [INFO]  * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+2020/05/30 04:08:53 - werkzeug - [INFO]  * Restarting with stat
+2020/05/30 04:08:53 - werkzeug - [WARNING]  * Debugger is active!
+2020/05/30 04:08:53 - werkzeug - [INFO]  * Debugger PIN: 325-504-209
+2020/05/30 04:10:37 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 16:10:37] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 04:10:47 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 16:10:47] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/30 04:11:18 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 16:11:18] "[32mPOST /login HTTP/1.1[0m" 302 -
+2020/05/30 04:11:25 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 16:11:25] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 04:11:49 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 16:11:49] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/30 05:22:56 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:22:56] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/30 05:22:59 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:22:59] "[37mGET /new_problem HTTP/1.1[0m" 200 -
+2020/05/30 05:24:40 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:24:40] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/30 05:24:41 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:24:41] "[37mGET /announce_list HTTP/1.1[0m" 200 -
+2020/05/30 05:24:43 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:24:43] "[37mGET /announce HTTP/1.1[0m" 200 -
+2020/05/30 05:24:44 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:24:44] "[37mGET /new_problem HTTP/1.1[0m" 200 -
+2020/05/30 05:24:55 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:24:55] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/30 05:25:05 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:25:05] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/30 05:25:08 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:25:08] "[37mGET /announce_list HTTP/1.1[0m" 200 -
+2020/05/30 05:25:08 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:25:08] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/30 05:25:10 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:25:10] "[37mGET /submit HTTP/1.1[0m" 200 -
+2020/05/30 05:25:10 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:25:10] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/30 05:25:14 - werkzeug - [INFO] 202.9.122.88 - - [30/May/2020 17:25:14] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 05:27:26 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:27:26] "[37mGET /announce HTTP/1.1[0m" 200 -
+2020/05/30 05:27:28 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:27:28] "[37mGET /new_problem HTTP/1.1[0m" 200 -
+2020/05/30 05:27:59 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:27:59] "[37mGET /new_problem HTTP/1.1[0m" 200 -
+2020/05/30 05:28:01 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:28:01] "[37mGET /new_problem HTTP/1.1[0m" 200 -
+2020/05/30 05:28:02 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:28:02] "[37mGET /new_problem HTTP/1.1[0m" 200 -
+2020/05/30 05:28:02 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:28:02] "[37mGET /new_problem HTTP/1.1[0m" 200 -
+2020/05/30 05:28:03 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:28:03] "[37mGET /new_problem HTTP/1.1[0m" 200 -
+2020/05/30 05:28:05 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:28:05] "[37mGET /new_problem HTTP/1.1[0m" 200 -
+2020/05/30 05:31:35 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:31:35] "[37mPOST /new_problem HTTP/1.1[0m" 200 -
+2020/05/30 05:31:39 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:31:39] "[37mPOST /new_problem HTTP/1.1[0m" 200 -
+2020/05/30 05:31:41 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:31:41] "[37mPOST /new_problem HTTP/1.1[0m" 200 -
+2020/05/30 05:31:43 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:31:43] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/30 05:31:48 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:31:48] "[37mGET /problem/1 HTTP/1.1[0m" 200 -
+2020/05/30 05:31:51 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:31:51] "[37mGET /problem/1 HTTP/1.1[0m" 200 -
+2020/05/30 05:31:53 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:31:53] "[37mGET /problem_edit/1 HTTP/1.1[0m" 200 -
+2020/05/30 05:31:55 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:31:55] "[37mPOST /problem_edit/1 HTTP/1.1[0m" 200 -
+2020/05/30 05:31:56 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:31:56] "[37mGET /problem_edit/1 HTTP/1.1[0m" 200 -
+2020/05/30 05:31:57 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:31:57] "[37mGET /problem/1 HTTP/1.1[0m" 200 -
+2020/05/30 05:31:59 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:31:59] "[37mGET /announce_list HTTP/1.1[0m" 200 -
+2020/05/30 05:32:01 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:32:01] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/30 05:33:47 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:33:47] "[37mGET /problem/1 HTTP/1.1[0m" 200 -
+2020/05/30 05:33:49 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:33:49] "[37mGET /problem_edit/1 HTTP/1.1[0m" 200 -
+2020/05/30 05:33:51 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:33:51] "[37mPOST /problem_edit/1 HTTP/1.1[0m" 200 -
+2020/05/30 05:33:54 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:33:54] "[37mGET /announce_list HTTP/1.1[0m" 200 -
+2020/05/30 05:33:55 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:33:55] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/30 05:33:55 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:33:55] "[37mGET /submit HTTP/1.1[0m" 200 -
+2020/05/30 05:33:56 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:33:56] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 05:33:57 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:33:57] "[37mGET /submit HTTP/1.1[0m" 200 -
+2020/05/30 05:33:57 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:33:57] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/30 05:34:00 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:34:00] "[37mGET /problem/1 HTTP/1.1[0m" 200 -
+2020/05/30 05:34:01 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:34:01] "[37mGET /problem_edit/1 HTTP/1.1[0m" 200 -
+2020/05/30 05:34:03 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:34:03] "[37mPOST /problem_edit/1 HTTP/1.1[0m" 200 -
+2020/05/30 05:34:04 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:34:04] "[37mGET /problem_edit/1 HTTP/1.1[0m" 200 -
+2020/05/30 05:34:07 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:34:07] "[37mGET /submit HTTP/1.1[0m" 200 -
+2020/05/30 05:34:09 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:34:09] "[37mGET /new_problem HTTP/1.1[0m" 200 -
+2020/05/30 05:34:28 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:34:28] "[37mPOST /new_problem HTTP/1.1[0m" 200 -
+2020/05/30 05:34:30 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:34:30] "[37mPOST /new_problem HTTP/1.1[0m" 200 -
+2020/05/30 05:35:09 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:35:09] "[37mPOST /new_problem HTTP/1.1[0m" 200 -
+2020/05/30 05:35:15 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:35:15] "[37mPOST /new_problem HTTP/1.1[0m" 200 -
+2020/05/30 05:35:19 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:35:19] "[37mGET /announce_list HTTP/1.1[0m" 200 -
+2020/05/30 05:35:19 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:35:19] "[37mGET /new_problem HTTP/1.1[0m" 200 -
+2020/05/30 05:35:57 - werkzeug - [INFO]  * Detected change in '/home/mscl/Desktop/FJCU_CPC_OJ/page/edit_problem/edit_problem.py', reloading
+2020/05/30 05:35:57 - werkzeug - [INFO]  * Restarting with stat
+2020/05/30 05:35:57 - werkzeug - [WARNING]  * Debugger is active!
+2020/05/30 05:35:57 - werkzeug - [INFO]  * Debugger PIN: 325-504-209
+2020/05/30 05:36:08 - flask_wtf.csrf - [INFO] The CSRF session token is missing.
+2020/05/30 05:36:08 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:36:08] "[31m[1mPOST /new_problem HTTP/1.1[0m" 400 -
+2020/05/30 05:36:40 - werkzeug - [INFO]  * Detected change in '/home/mscl/Desktop/FJCU_CPC_OJ/page/edit_problem/edit_problem.py', reloading
+2020/05/30 05:36:40 - werkzeug - [INFO]  * Restarting with stat
+2020/05/30 05:36:40 - werkzeug - [WARNING]  * Debugger is active!
+2020/05/30 05:36:40 - werkzeug - [INFO]  * Debugger PIN: 325-504-209
+2020/05/30 05:36:46 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:36:46] "[32mGET /new_problem HTTP/1.1[0m" 302 -
+2020/05/30 05:36:46 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:36:46] "[37mGET /login?next=%2Fnew_problem HTTP/1.1[0m" 200 -
+2020/05/30 05:36:48 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:36:48] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/30 05:36:56 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:36:56] "[32mPOST /login HTTP/1.1[0m" 302 -
+2020/05/30 05:36:56 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:36:56] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 05:37:01 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:37:01] "[37mGET /problem/1 HTTP/1.1[0m" 200 -
+2020/05/30 05:37:02 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:37:02] "[37mGET /announce HTTP/1.1[0m" 200 -
+2020/05/30 05:37:03 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:37:03] "[37mGET /new_problem HTTP/1.1[0m" 200 -
+2020/05/30 05:37:18 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:37:18] "[33mPOST /%3CResponse%20209%20bytes%20[302%20FOUND]%3E HTTP/1.1[0m" 404 -
+2020/05/30 05:38:02 - werkzeug - [INFO]  * Detected change in '/home/mscl/Desktop/FJCU_CPC_OJ/page/edit_problem/edit_problem.py', reloading
+2020/05/30 05:38:02 - werkzeug - [INFO]  * Restarting with stat
+2020/05/30 05:38:03 - werkzeug - [WARNING]  * Debugger is active!
+2020/05/30 05:38:03 - werkzeug - [INFO]  * Debugger PIN: 325-504-209
+2020/05/30 05:38:05 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:38:05] "[33mPOST /%3CResponse%20209%20bytes%20[302%20FOUND]%3E HTTP/1.1[0m" 404 -
+2020/05/30 05:38:11 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:38:11] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 05:38:13 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:38:13] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/30 05:38:18 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:38:18] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/30 05:42:51 - werkzeug - [INFO]  * Detected change in '/home/mscl/Desktop/FJCU_CPC_OJ/page/edit_problem/edit_problem.py', reloading
+2020/05/30 05:42:51 - werkzeug - [INFO]  * Restarting with stat
+2020/05/30 05:42:51 - werkzeug - [WARNING]  * Debugger is active!
+2020/05/30 05:42:51 - werkzeug - [INFO]  * Debugger PIN: 325-504-209
+2020/05/30 05:42:59 - flask_wtf.csrf - [INFO] The CSRF session token is missing.
+2020/05/30 05:42:59 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:42:59] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2020/05/30 05:43:04 - flask_wtf.csrf - [INFO] The CSRF session token is missing.
+2020/05/30 05:43:04 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:43:04] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2020/05/30 05:43:11 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:43:11] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 05:43:13 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:43:13] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/30 05:43:17 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:43:17] "[32mPOST /login HTTP/1.1[0m" 302 -
+2020/05/30 05:43:17 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:43:17] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 05:43:20 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:43:20] "[37mGET /problem/1 HTTP/1.1[0m" 200 -
+2020/05/30 05:43:24 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:43:24] "[37mGET /problem_edit/1 HTTP/1.1[0m" 200 -
+2020/05/30 05:43:26 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:43:26] "[37mPOST /problem_edit/1 HTTP/1.1[0m" 200 -
+2020/05/30 05:43:53 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:43:53] "[37mGET /announce HTTP/1.1[0m" 200 -
+2020/05/30 05:43:54 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:43:54] "[35m[1mGET /new_problem HTTP/1.1[0m" 500 -
+2020/05/30 05:43:54 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:43:54] "[37mGET /new_problem?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020/05/30 05:43:54 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:43:54] "[37mGET /new_problem?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020/05/30 05:43:54 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:43:54] "[37mGET /new_problem?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020/05/30 05:43:54 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:43:54] "[37mGET /new_problem?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020/05/30 05:43:54 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:43:54] "[37mGET /new_problem?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2020/05/30 05:43:54 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:43:54] "[37mGET /new_problem?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020/05/30 05:44:02 - werkzeug - [INFO]  * Detected change in '/home/mscl/Desktop/FJCU_CPC_OJ/page/edit_problem/edit_problem.py', reloading
+2020/05/30 05:44:02 - werkzeug - [INFO]  * Restarting with stat
+2020/05/30 05:44:02 - werkzeug - [WARNING]  * Debugger is active!
+2020/05/30 05:44:02 - werkzeug - [INFO]  * Debugger PIN: 325-504-209
+2020/05/30 05:45:30 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:45:30] "[32mGET /new_problem HTTP/1.1[0m" 302 -
+2020/05/30 05:45:30 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:45:30] "[37mGET /login?next=%2Fnew_problem HTTP/1.1[0m" 200 -
+2020/05/30 05:45:30 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:45:30] "[37mGET /login?next=%2Fnew_problem HTTP/1.1[0m" 200 -
+2020/05/30 05:45:31 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:45:31] "[37mGET /login?next=%2Fnew_problem HTTP/1.1[0m" 200 -
+2020/05/30 05:45:32 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:45:32] "[37mGET /login?next=%2Fnew_problem HTTP/1.1[0m" 200 -
+2020/05/30 05:45:35 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:45:35] "[37mGET /announce_list HTTP/1.1[0m" 200 -
+2020/05/30 05:45:36 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:45:36] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/30 05:45:37 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:45:37] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/30 05:45:39 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:45:39] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/30 05:45:47 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:45:47] "[32mGET /submit HTTP/1.1[0m" 302 -
+2020/05/30 05:45:47 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:45:47] "[37mGET /login?next=%2Fsubmit HTTP/1.1[0m" 200 -
+2020/05/30 05:46:05 - werkzeug - [INFO]  * Detected change in '/home/mscl/Desktop/FJCU_CPC_OJ/page/edit_problem/edit_problem.py', reloading
+2020/05/30 05:46:05 - werkzeug - [INFO]  * Restarting with stat
+2020/05/30 05:46:05 - werkzeug - [WARNING]  * Debugger is active!
+2020/05/30 05:46:05 - werkzeug - [INFO]  * Debugger PIN: 325-504-209
+2020/05/30 05:47:15 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:47:15] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/30 05:47:15 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:47:15] "[32mGET /submit HTTP/1.1[0m" 302 -
+2020/05/30 05:47:15 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:47:15] "[37mGET /login?next=%2Fsubmit HTTP/1.1[0m" 200 -
+2020/05/30 05:47:16 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:47:16] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/30 05:47:20 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:47:20] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/30 05:47:26 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:47:26] "[37mPOST /login HTTP/1.1[0m" 200 -
+2020/05/30 05:47:29 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:47:29] "[37mGET /register HTTP/1.1[0m" 200 -
+2020/05/30 05:47:50 - Register - [DEBUG] erichsu 123456789 chwnhsu@gmail.com
+2020/05/30 05:47:50 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:47:50] "[32mPOST /register HTTP/1.1[0m" 302 -
+2020/05/30 05:47:50 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:47:50] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/30 05:47:57 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:47:57] "[32mPOST /login HTTP/1.1[0m" 302 -
+2020/05/30 05:47:57 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:47:57] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 05:47:59 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:47:59] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/30 05:48:00 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:48:00] "[37mGET /submit HTTP/1.1[0m" 200 -
+2020/05/30 05:48:01 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:48:01] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/30 05:48:02 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:48:02] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 05:48:02 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:48:02] "[37mGET /submit HTTP/1.1[0m" 200 -
+2020/05/30 05:48:03 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:48:03] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/30 05:48:04 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:48:04] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 05:48:05 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:48:05] "[37mGET /submit HTTP/1.1[0m" 200 -
+2020/05/30 05:48:05 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:48:05] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/30 05:49:41 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:49:41] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/30 05:49:42 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:49:42] "[37mGET /new_problem HTTP/1.1[0m" 200 -
+2020/05/30 05:50:19 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:50:19] "[37mPOST /new_problem HTTP/1.1[0m" 200 -
+2020/05/30 05:50:24 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:50:24] "[37mGET /submit HTTP/1.1[0m" 200 -
+2020/05/30 05:51:09 - Judger - [DEBUG] Add problem pid=1 subid=1
+2020/05/30 05:51:09 - Judger - [DEBUG] isolate box 0 inited
+2020/05/30 05:51:09 - Judger - [DEBUG] Thread 140207281706752 created
+2020/05/30 05:51:09 - Judger - [DEBUG] Box 0 - compile - Write `code.cpp`
+2020/05/30 05:51:09 - Judger - [DEBUG] Box 0 - compile - Run compile cmd
+2020/05/30 05:51:09 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:51:09] "[32mPOST /submit HTTP/1.1[0m" 302 -
+2020/05/30 05:51:09 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:51:09] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 05:51:09 - Judger - [DEBUG] Box 0 - compile - Copy the compile msg out
+2020/05/30 05:51:09 - Judger - [DEBUG] Box 0 - compile - Copy the compile_out
+2020/05/30 05:51:09 - Judger - [DEBUG] Box 0 - run - Copy the testdata 0 in
+2020/05/30 05:51:09 - Judger - [DEBUG] Box 0 - run - Run
+2020/05/30 05:51:09 - Judger - [DEBUG] Box 0 - run - Copy the output 0 out
+2020/05/30 05:51:09 - Judger - [DEBUG] Box 0 - run - Copy the out_0
+2020/05/30 05:51:09 - Judger - [DEBUG] Box 0 - checkans - Copy files
+2020/05/30 05:51:09 - Judger - [DEBUG] Box 0 - checkans - Run checkans
+2020/05/30 05:51:09 - Judger - [DEBUG] isolate box 0 cleanup
+2020/05/30 05:51:09 - Judger - [DEBUG] Result is AC
+2020/05/30 05:51:09 - Judger - [DEBUG] Thread 140207054612224 exit
+2020/05/30 05:51:29 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:51:29] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 05:51:40 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:51:40] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 05:51:48 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:51:48] "[37mGET /announce_list HTTP/1.1[0m" 200 -
+2020/05/30 05:51:49 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:51:49] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/30 05:51:53 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:51:53] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/30 05:53:15 - werkzeug - [INFO]  * Detected change in '/home/mscl/Desktop/FJCU_CPC_OJ/page/edit_problem/edit_problem.py', reloading
+2020/05/30 05:53:15 - werkzeug - [INFO]  * Restarting with stat
+2020/05/30 05:53:15 - werkzeug - [WARNING]  * Debugger is active!
+2020/05/30 05:53:15 - werkzeug - [INFO]  * Debugger PIN: 325-504-209
+2020/05/30 05:56:27 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:56:27] "[32mGET /submit HTTP/1.1[0m" 302 -
+2020/05/30 05:56:27 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:56:27] "[37mGET /login?next=%2Fsubmit HTTP/1.1[0m" 200 -
+2020/05/30 05:56:28 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 17:56:28] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 06:14:06 - werkzeug - [INFO] 72.214.96.131 - - [30/May/2020 18:14:06] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 07:00:27 - werkzeug - [INFO] 111.118.154.21 - - [30/May/2020 19:00:27] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 07:28:57 - werkzeug - [INFO] 27.247.9.5 - - [30/May/2020 19:28:57] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 07:28:57 - werkzeug - [INFO] 27.247.9.5 - - [30/May/2020 19:28:57] "[37mGET /static/css/template.css HTTP/1.1[0m" 200 -
+2020/05/30 07:28:57 - werkzeug - [INFO] 27.247.9.5 - - [30/May/2020 19:28:57] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
+2020/05/30 07:28:57 - werkzeug - [INFO] 27.247.9.5 - - [30/May/2020 19:28:57] "[37mGET /static/css/Rish_block.css HTTP/1.1[0m" 200 -
+2020/05/30 07:28:58 - werkzeug - [INFO] 27.247.9.5 - - [30/May/2020 19:28:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020/05/30 07:29:01 - werkzeug - [INFO] 27.247.9.5 - - [30/May/2020 19:29:01] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 07:29:02 - werkzeug - [INFO] 27.247.9.5 - - [30/May/2020 19:29:02] "[37mGET /static/css/submission.css HTTP/1.1[0m" 200 -
+2020/05/30 07:34:22 - werkzeug - [INFO] 197.232.23.73 - - [30/May/2020 19:34:22] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 07:50:57 - werkzeug - [INFO] 177.102.7.248 - - [30/May/2020 19:50:57] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 07:50:57 - werkzeug - [INFO] 177.102.7.248 - - [30/May/2020 19:50:57] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 07:50:57 - werkzeug - [INFO] 177.102.7.248 - - [30/May/2020 19:50:57] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 08:11:18 - werkzeug - [INFO] 180.218.52.117 - - [30/May/2020 20:11:18] "[37mGET /register HTTP/1.1[0m" 200 -
+2020/05/30 08:11:18 - werkzeug - [INFO] 180.218.52.117 - - [30/May/2020 20:11:18] "[37mGET /static/css/template.css HTTP/1.1[0m" 200 -
+2020/05/30 08:11:19 - werkzeug - [INFO] 180.218.52.117 - - [30/May/2020 20:11:19] "[37mGET /static/css/register.css HTTP/1.1[0m" 200 -
+2020/05/30 08:11:19 - werkzeug - [INFO] 180.218.52.117 - - [30/May/2020 20:11:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020/05/30 08:24:13 - werkzeug - [INFO] 103.209.143.104 - - [30/May/2020 20:24:13] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 08:29:44 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 20:29:44] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 08:29:44 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 20:29:44] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
+2020/05/30 08:29:44 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 20:29:44] "[37mGET /static/css/template.css HTTP/1.1[0m" 200 -
+2020/05/30 08:29:44 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 20:29:44] "[37mGET /static/css/Rish_block.css HTTP/1.1[0m" 200 -
+2020/05/30 08:29:47 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 20:29:47] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 08:29:47 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 20:29:47] "[37mGET /static/css/submission.css HTTP/1.1[0m" 200 -
+2020/05/30 08:33:39 - werkzeug - [INFO] 180.218.52.117 - - [30/May/2020 20:33:39] "[37mGET /problem/1 HTTP/1.1[0m" 200 -
+2020/05/30 08:33:39 - werkzeug - [INFO] 180.218.52.117 - - [30/May/2020 20:33:39] "[37mGET /static/css/template.css HTTP/1.1[0m" 200 -
+2020/05/30 08:33:39 - werkzeug - [INFO] 180.218.52.117 - - [30/May/2020 20:33:39] "[37mGET /static/css/common.css HTTP/1.1[0m" 200 -
+2020/05/30 08:33:39 - werkzeug - [INFO] 180.218.52.117 - - [30/May/2020 20:33:39] "[37mGET /static/css/Rish_block.css HTTP/1.1[0m" 200 -
+2020/05/30 08:39:45 - werkzeug - [INFO] 1.34.50.101 - - [30/May/2020 20:39:45] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 08:40:13 - werkzeug - [INFO] 1.34.50.101 - - [30/May/2020 20:40:13] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 08:40:22 - werkzeug - [INFO] 1.34.50.101 - - [30/May/2020 20:40:22] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 08:40:26 - werkzeug - [INFO] 1.34.50.101 - - [30/May/2020 20:40:26] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 08:40:45 - werkzeug - [INFO] 1.34.50.101 - - [30/May/2020 20:40:45] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 08:41:25 - werkzeug - [INFO] 1.34.50.101 - - [30/May/2020 20:41:25] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 09:10:32 - werkzeug - [INFO] 140.136.15.189 - - [30/May/2020 21:10:32] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 09:21:23 - werkzeug - [INFO] 128.14.134.170 - - [30/May/2020 21:21:23] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 09:32:03 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:32:03] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 09:32:03 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:32:03] "[37mGET /static/css/template.css HTTP/1.1[0m" 200 -
+2020/05/30 09:32:03 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:32:03] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
+2020/05/30 09:32:03 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:32:03] "[37mGET /static/css/Rish_block.css HTTP/1.1[0m" 200 -
+2020/05/30 09:32:04 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:32:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020/05/30 09:32:08 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:32:08] "[37mGET /register HTTP/1.1[0m" 200 -
+2020/05/30 09:32:08 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:32:08] "[37mGET /static/css/register.css HTTP/1.1[0m" 200 -
+2020/05/30 09:33:19 - Register - [DEBUG] Handsome_Wu ji394su3 f309168@gmail.com
+2020/05/30 09:33:20 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:33:20] "[32mPOST /register HTTP/1.1[0m" 302 -
+2020/05/30 09:33:20 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:33:20] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/30 09:33:20 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:33:20] "[37mGET /static/css/login.css HTTP/1.1[0m" 200 -
+2020/05/30 09:33:39 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:33:39] "[32mPOST /login HTTP/1.1[0m" 302 -
+2020/05/30 09:33:39 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:33:39] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 09:33:46 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:33:46] "[37mGET /submit HTTP/1.1[0m" 200 -
+2020/05/30 09:33:46 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:33:46] "[37mGET /static/css/submit.css HTTP/1.1[0m" 200 -
+2020/05/30 09:33:50 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:33:50] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 09:33:55 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:33:55] "[37mGET /submit HTTP/1.1[0m" 200 -
+2020/05/30 09:34:41 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:34:41] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:34:41 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:34:41] "[37mGET /static/css/submission.css HTTP/1.1[0m" 200 -
+2020/05/30 09:34:41 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:34:41] "[37mGET /static/css/template.css HTTP/1.1[0m" 200 -
+2020/05/30 09:34:42 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:34:42] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:34:43 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:34:43] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:34:43 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:34:43] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:34:43 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:34:43] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:34:43 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:34:43] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:34:43 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:34:43] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:34:44 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:34:44] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:34:47 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:34:47] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 09:34:47 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:34:47] "[37mGET /static/css/Rish_block.css HTTP/1.1[0m" 200 -
+2020/05/30 09:34:47 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:34:47] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
+2020/05/30 09:34:50 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:34:50] "[37mGET /userinfo/Handsome_Wu HTTP/1.1[0m" 200 -
+2020/05/30 09:34:50 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:34:50] "[37mGET /static/js/jdenticon-2.1.1.min.js HTTP/1.1[0m" 200 -
+2020/05/30 09:34:50 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:34:50] "[37mGET /static/js/jdenticon-2.1.1.min.js.map HTTP/1.1[0m" 200 -
+2020/05/30 09:34:50 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:34:50] "[37mGET /static/css/setting.css HTTP/1.1[0m" 200 -
+2020/05/30 09:34:56 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:34:56] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 09:34:57 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:34:57] "[37mGET /userinfo/erichsu HTTP/1.1[0m" 200 -
+2020/05/30 09:35:08 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:35:08] "[37mGET /announce_list HTTP/1.1[0m" 200 -
+2020/05/30 09:35:09 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:35:09] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 09:35:10 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:35:10] "[37mGET /userinfo/Handsome_Wu HTTP/1.1[0m" 200 -
+2020/05/30 09:35:12 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:35:12] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 09:35:13 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:35:13] "[37mGET /userinfo/erichsu HTTP/1.1[0m" 200 -
+2020/05/30 09:40:08 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:40:08] "[32mGET /submit HTTP/1.1[0m" 302 -
+2020/05/30 09:40:08 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:40:08] "[37mGET /login?next=%2Fsubmit HTTP/1.1[0m" 200 -
+2020/05/30 09:40:08 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:40:08] "[37mGET /static/css/login.css HTTP/1.1[0m" 200 -
+2020/05/30 09:40:10 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:40:10] "[32mGET /submit HTTP/1.1[0m" 302 -
+2020/05/30 09:40:10 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:40:10] "[37mGET /login?next=%2Fsubmit HTTP/1.1[0m" 200 -
+2020/05/30 09:40:10 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:40:10] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:40:11 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:40:11] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:40:12 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:40:12] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:40:12 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:40:12] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:40:43 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:40:43] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+2020/05/30 09:40:44 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:40:44] "[37mGET /submit?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020/05/30 09:40:44 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:40:44] "[37mGET /submit?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020/05/30 09:40:44 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:40:44] "[37mGET /submit?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020/05/30 09:40:44 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:40:44] "[37mGET /submit?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2020/05/30 09:40:44 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:40:44] "[37mGET /submit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020/05/30 09:40:44 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:40:44] "[37mGET /submit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020/05/30 09:43:02 - werkzeug - [INFO] 27.247.9.5 - - [30/May/2020 21:43:02] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:43:03 - werkzeug - [INFO] 27.247.9.5 - - [30/May/2020 21:43:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020/05/30 09:44:41 - werkzeug - [INFO] 27.247.9.5 - - [30/May/2020 21:44:41] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 09:44:45 - werkzeug - [INFO] 27.247.9.5 - - [30/May/2020 21:44:45] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:44:47 - werkzeug - [INFO] 27.247.9.5 - - [30/May/2020 21:44:47] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:44:47 - werkzeug - [INFO] 27.247.9.5 - - [30/May/2020 21:44:47] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+2020/05/30 09:44:47 - werkzeug - [INFO] 27.247.9.5 - - [30/May/2020 21:44:47] "[36mGET /static/css/submission.css HTTP/1.1[0m" 304 -
+2020/05/30 09:46:10 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:46:10] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:03 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:03] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:04 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:04] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:04 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:04] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:04 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:04] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:04 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:04] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:04 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:04] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:04 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:04] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:05 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:05] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:05 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:05] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:05 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:05] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:05 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:05] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:06 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:06] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:06 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:06] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:06 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:06] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:07 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:07] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:07 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:07] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:08 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:08] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:08 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:08] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:08 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:08] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:08 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:08] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:09 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:09] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:09 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:09] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:09 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:09] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:09 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:09] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:10 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:10] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:10 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:10] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:10 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:10] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:10 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:10] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:11 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:11] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:11 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:11] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:11 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:11] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:11 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:48:11] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 09:48:11 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:11] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:11 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:11] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:12 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:12] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:12 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:12] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:12 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:12] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:12 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:12] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:12 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:12] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:13 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:13] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:13 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:13] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:13 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:13] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:13 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:13] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:13 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:13] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:14 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:14] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:14 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:14] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:14 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:14] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:14 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:14] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:15 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:15] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:15 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:15] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:15 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:15] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:15 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:15] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:16 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:16] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:16 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:16] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:16 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:16] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:16 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:16] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:17 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:17] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:17 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:17] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:17 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:17] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:18 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:18] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:18 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:18] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:18 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:18] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:18 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:18] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:19 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:19] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:19 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:19] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:19 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:19] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:20 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:20] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:20 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:20] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:21 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:21] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:22 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:22] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:23 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:23] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:23 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:23] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:23 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:23] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:24 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:24] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:24 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:24] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:24 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:24] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:24 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:24] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:25 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:25] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:25 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:25] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:25 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:25] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:26 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:26] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:26 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:26] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:27 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:27] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:27 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:27] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:27 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:27] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:28 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:28] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:28 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:28] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:28 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:28] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:29 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:29] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:29 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:29] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:29 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:29] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:29 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:29] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:30 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:30] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:30 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:30] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:30 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:30] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:31 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:31] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:31 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:31] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:31 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:31] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:31 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:31] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:32 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:32] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:32 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:32] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:32 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:32] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:32 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:32] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:32 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:32] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:33 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:33] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:33 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:33] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:33 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:33] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:33 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:33] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:34 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:34] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:34 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:34] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:34 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:34] "[32mGET /submit HTTP/1.1[0m" 302 -
+2020/05/30 09:48:34 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:34] "[37mGET /login?next=%2Fsubmit HTTP/1.1[0m" 200 -
+2020/05/30 09:48:35 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:35] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:35 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:35] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:35 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:48:35] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:48:45 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:48:45] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+2020/05/30 09:48:45 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:48:45] "[37mGET /submit?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020/05/30 09:48:45 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:48:45] "[37mGET /submit?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020/05/30 09:48:45 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:48:45] "[37mGET /submit?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020/05/30 09:48:45 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:48:45] "[37mGET /submit?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2020/05/30 09:48:45 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:48:45] "[37mGET /submit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020/05/30 09:48:45 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:48:45] "[37mGET /submit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020/05/30 09:49:07 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:49:07] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+2020/05/30 09:49:07 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:49:07] "[37mGET /submit?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020/05/30 09:49:07 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:49:07] "[37mGET /submit?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020/05/30 09:49:07 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:49:07] "[37mGET /submit?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020/05/30 09:49:07 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:49:07] "[37mGET /submit?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2020/05/30 09:49:07 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:49:07] "[37mGET /submit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020/05/30 09:49:08 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:49:08] "[37mGET /submit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020/05/30 09:49:16 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:16] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:16 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:16] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:16 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:16] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:17 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:17] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:24 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:49:24] "[37mGET /problem/1 HTTP/1.1[0m" 200 -
+2020/05/30 09:49:24 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:49:24] "[37mGET /static/css/common.css HTTP/1.1[0m" 200 -
+2020/05/30 09:49:26 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:26] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:26 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:26] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:26 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:26] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:27 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:27] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:27 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:27] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:27 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:27] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:27 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:27] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:27 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:27] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:28 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:28] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:28 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:28] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:28 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:28] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:28 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:28] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:28 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:28] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:29 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:29] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:29 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:29] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:30 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:30] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:30 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:30] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:30 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:30] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:30 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:30] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:30 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:30] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:31 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:31] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:31 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:31] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:31 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:31] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:31 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:31] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:31 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:31] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:32 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:32] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:33 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:33] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:33 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:33] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:34 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:34] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:34 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:34] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:34 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:34] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:34 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:34] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:35 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:35] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:35 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:35] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:35 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:35] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:35 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:35] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:36 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:36] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:36 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:36] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:36 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:36] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:36 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:36] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:37 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:37] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:37 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:37] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:37 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:37] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:37 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:37] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:38 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:38] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:38 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:38] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:38 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:38] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:38 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:38] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:38 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:38] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:39 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:39] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:39 - Judger - [DEBUG] Add problem pid=1 subid=2
+2020/05/30 09:49:39 - Judger - [DEBUG] isolate box 0 inited
+2020/05/30 09:49:39 - Judger - [DEBUG] Thread 139712264066816 created
+2020/05/30 09:49:39 - Judger - [DEBUG] Box 0 - compile - Write `code.cpp`
+2020/05/30 09:49:39 - Judger - [DEBUG] Box 0 - compile - Run compile cmd
+2020/05/30 09:49:39 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:49:39] "[32mPOST /submit HTTP/1.1[0m" 302 -
+2020/05/30 09:49:39 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:49:39] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:39 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:49:39] "[37mGET /static/css/submission.css HTTP/1.1[0m" 200 -
+2020/05/30 09:49:39 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:39] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:39 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:39] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:39 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:49:39] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:49:39 - Judger - [DEBUG] Box 0 - compile - Copy the compile msg out
+2020/05/30 09:49:39 - Judger - [DEBUG] Box 0 - compile - Copy the compile_out
+2020/05/30 09:49:39 - Judger - [DEBUG] Box 0 - run - Copy the testdata 0 in
+2020/05/30 09:49:39 - Judger - [DEBUG] Box 0 - run - Run
+2020/05/30 09:49:39 - Judger - [DEBUG] Box 0 - run - Copy the output 0 out
+2020/05/30 09:49:39 - Judger - [DEBUG] Box 0 - run - Copy the out_0
+2020/05/30 09:49:39 - Judger - [DEBUG] Box 0 - checkans - Copy files
+2020/05/30 09:49:39 - Judger - [DEBUG] Box 0 - checkans - Run checkans
+2020/05/30 09:49:40 - Judger - [DEBUG] isolate box 0 cleanup
+2020/05/30 09:49:40 - Judger - [DEBUG] Result is AC
+2020/05/30 09:49:40 - Judger - [DEBUG] Thread 139712255674112 exit
+2020/05/30 09:50:05 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:50:05] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:50:07 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:50:07] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:50:10 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:50:10] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:50:11 - werkzeug - [INFO] 140.136.25.46 - - [30/May/2020 21:50:11] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 09:50:38 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:50:38] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 09:50:40 - werkzeug - [INFO] 140.136.150.91 - - [30/May/2020 21:50:40] "[37mGET /userinfo/Handsome_Wu HTTP/1.1[0m" 200 -
+2020/05/30 11:33:42 - werkzeug - [INFO] 180.218.52.117 - - [30/May/2020 23:33:42] "[37mGET /problem/1 HTTP/1.1[0m" 200 -
+2020/05/30 11:33:42 - werkzeug - [INFO] 180.218.52.117 - - [30/May/2020 23:33:42] "[37mGET /static/css/template.css HTTP/1.1[0m" 200 -
+2020/05/30 11:33:42 - werkzeug - [INFO] 180.218.52.117 - - [30/May/2020 23:33:42] "[37mGET /static/css/common.css HTTP/1.1[0m" 200 -
+2020/05/30 11:33:42 - werkzeug - [INFO] 180.218.52.117 - - [30/May/2020 23:33:42] "[37mGET /static/css/Rish_block.css HTTP/1.1[0m" 200 -
+2020/05/30 11:33:43 - werkzeug - [INFO] 180.218.52.117 - - [30/May/2020 23:33:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020/05/30 11:39:35 - werkzeug - [INFO] 27.247.9.5 - - [30/May/2020 23:39:35] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/30 11:39:35 - werkzeug - [INFO] 27.247.9.5 - - [30/May/2020 23:39:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020/05/30 11:51:49 - werkzeug - [INFO] 49.159.9.193 - - [30/May/2020 23:51:49] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/30 11:51:49 - werkzeug - [INFO] 49.159.9.193 - - [30/May/2020 23:51:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020/05/31 12:09:24 - werkzeug - [INFO]  * Detected change in '/home/mscl/Desktop/FJCU_CPC_OJ/page/edit_problem/edit_problem.py', reloading
+2020/05/31 12:09:24 - werkzeug - [INFO]  * Restarting with stat
+2020/05/31 12:09:25 - werkzeug - [WARNING]  * Debugger is active!
+2020/05/31 12:09:25 - werkzeug - [INFO]  * Debugger PIN: 325-504-209
+2020/05/31 12:09:40 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:09:40] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:09:50 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:09:50] "[32mPOST /login HTTP/1.1[0m" 302 -
+2020/05/31 12:09:51 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:09:51] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 12:09:53 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:09:53] "[37mGET /new_problem HTTP/1.1[0m" 200 -
+2020/05/31 12:12:18 - werkzeug - [INFO]  * Detected change in '/home/mscl/Desktop/FJCU_CPC_OJ/page/edit_problem/edit_problem.py', reloading
+2020/05/31 12:12:18 - werkzeug - [INFO]  * Restarting with stat
+2020/05/31 12:12:18 - werkzeug - [WARNING]  * Debugger is active!
+2020/05/31 12:12:18 - werkzeug - [INFO]  * Debugger PIN: 325-504-209
+2020/05/31 12:13:05 - flask_wtf.csrf - [INFO] The CSRF session token is missing.
+2020/05/31 12:13:05 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:13:05] "[31m[1mPOST /new_problem HTTP/1.1[0m" 400 -
+2020/05/31 12:13:10 - flask_wtf.csrf - [INFO] The CSRF session token is missing.
+2020/05/31 12:13:10 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:13:10] "[31m[1mPOST /new_problem HTTP/1.1[0m" 400 -
+2020/05/31 12:13:23 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:13:23] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/31 12:13:25 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:13:25] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:13:31 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:13:31] "[32mPOST /login HTTP/1.1[0m" 302 -
+2020/05/31 12:13:31 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:13:31] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 12:13:35 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:13:35] "[37mGET /new_problem HTTP/1.1[0m" 200 -
+2020/05/31 12:15:04 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:15:04] "[37mPOST /new_problem HTTP/1.1[0m" 200 -
+2020/05/31 12:15:07 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:15:07] "[37mGET /new_problem HTTP/1.1[0m" 200 -
+2020/05/31 12:15:09 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:15:09] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/31 12:15:15 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:15:15] "[37mGET /new_problem HTTP/1.1[0m" 200 -
+2020/05/31 12:15:42 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 00:15:42] "[37mGET /register HTTP/1.1[0m" 200 -
+2020/05/31 12:15:42 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 00:15:42] "[37mGET /static/css/template.css HTTP/1.1[0m" 200 -
+2020/05/31 12:15:42 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 00:15:42] "[37mGET /static/css/register.css HTTP/1.1[0m" 200 -
+2020/05/31 12:16:56 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:16:56] "[37mPOST /new_problem HTTP/1.1[0m" 200 -
+2020/05/31 12:16:58 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:16:58] "[37mGET /new_problem HTTP/1.1[0m" 200 -
+2020/05/31 12:19:24 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:19:24] "[37mPOST /new_problem HTTP/1.1[0m" 200 -
+2020/05/31 12:19:46 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:19:46] "[37mGET /new_problem HTTP/1.1[0m" 200 -
+2020/05/31 12:19:48 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:19:48] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/31 12:19:52 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:19:52] "[37mGET /new_problem HTTP/1.1[0m" 200 -
+2020/05/31 12:21:12 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:21:12] "[37mPOST /new_problem HTTP/1.1[0m" 200 -
+2020/05/31 12:21:14 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:21:14] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/31 12:21:16 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:21:16] "[37mGET /problem/2 HTTP/1.1[0m" 200 -
+2020/05/31 12:21:19 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:21:19] "[37mGET /problem/2 HTTP/1.1[0m" 200 -
+2020/05/31 12:21:24 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:21:24] "[37mGET /new_problem HTTP/1.1[0m" 200 -
+2020/05/31 12:23:20 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:23:20] "[37mPOST /new_problem HTTP/1.1[0m" 200 -
+2020/05/31 12:23:25 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:23:25] "[37mGET /new_problem HTTP/1.1[0m" 200 -
+2020/05/31 12:24:52 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:24:52] "[37mPOST /new_problem HTTP/1.1[0m" 200 -
+2020/05/31 12:24:56 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:24:56] "[37mGET /new_problem HTTP/1.1[0m" 200 -
+2020/05/31 12:26:41 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:26:41] "[37mPOST /new_problem HTTP/1.1[0m" 200 -
+2020/05/31 12:26:43 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:26:43] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/31 12:43:22 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:43:22] "[37mGET /problem/2 HTTP/1.1[0m" 200 -
+2020/05/31 12:43:29 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:43:29] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/31 12:43:32 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:43:32] "[37mGET /submit HTTP/1.1[0m" 200 -
+2020/05/31 12:43:39 - Judger - [DEBUG] Add problem pid=2 subid=3
+2020/05/31 12:43:39 - Judger - [DEBUG] isolate box 0 inited
+2020/05/31 12:43:39 - Judger - [DEBUG] Thread 139954434709248 created
+2020/05/31 12:43:39 - Judger - [DEBUG] Box 0 - compile - Write `code.cpp`
+2020/05/31 12:43:39 - Judger - [DEBUG] Box 0 - compile - Run compile cmd
+2020/05/31 12:43:39 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:43:39] "[32mPOST /submit HTTP/1.1[0m" 302 -
+2020/05/31 12:43:39 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:43:39] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/31 12:43:39 - Judger - [DEBUG] Box 0 - compile - Copy the compile msg out
+2020/05/31 12:43:39 - Judger - [DEBUG] Box 0 - compile - Copy the compile_out
+2020/05/31 12:43:39 - Judger - [DEBUG] Box 0 - run - Copy the testdata 0 in
+2020/05/31 12:43:39 - Judger - [DEBUG] Box 0 - run - Run
+2020/05/31 12:43:40 - Judger - [DEBUG] Box 0 - run - Copy the output 0 out
+2020/05/31 12:43:40 - Judger - [DEBUG] Box 0 - run - Copy the out_0
+2020/05/31 12:43:40 - Judger - [DEBUG] Box 0 - checkans - Copy files
+2020/05/31 12:43:40 - Judger - [DEBUG] Box 0 - checkans - Run checkans
+2020/05/31 12:43:40 - Judger - [DEBUG] Box 0 - run - Copy the testdata 1 in
+2020/05/31 12:43:40 - Judger - [DEBUG] Box 0 - run - Run
+2020/05/31 12:43:40 - Judger - [DEBUG] Box 0 - run - Copy the output 1 out
+2020/05/31 12:43:40 - Judger - [DEBUG] Box 0 - run - Copy the out_1
+2020/05/31 12:43:40 - Judger - [DEBUG] Box 0 - checkans - Copy files
+2020/05/31 12:43:40 - Judger - [DEBUG] Box 0 - checkans - Run checkans
+2020/05/31 12:43:40 - Judger - [DEBUG] isolate box 0 cleanup
+2020/05/31 12:43:40 - Judger - [DEBUG] Result is AC
+2020/05/31 12:43:40 - Judger - [DEBUG] Thread 139954443101952 exit
+2020/05/31 12:43:43 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:43:43] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/31 12:43:43 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:43:43] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/31 12:43:44 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:43:44] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/31 12:43:44 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:43:44] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/31 12:43:52 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:43:52] "[37mGET /submit HTTP/1.1[0m" 200 -
+2020/05/31 12:43:55 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:43:55] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/31 12:43:55 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:43:55] "[37mGET /submit HTTP/1.1[0m" 200 -
+2020/05/31 12:43:56 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:43:56] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/31 12:44:21 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:44:21] "[37mGET /problem/5 HTTP/1.1[0m" 200 -
+2020/05/31 12:44:38 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:44:38] "[37mGET /submit HTTP/1.1[0m" 200 -
+2020/05/31 12:44:42 - Judger - [DEBUG] Add problem pid=5 subid=4
+2020/05/31 12:44:42 - Judger - [DEBUG] isolate box 1 inited
+2020/05/31 12:44:42 - Judger - [DEBUG] Thread 139954410166016 created
+2020/05/31 12:44:42 - Judger - [DEBUG] Box 1 - compile - Write `code.cpp`
+2020/05/31 12:44:42 - Judger - [DEBUG] Box 1 - compile - Run compile cmd
+2020/05/31 12:44:42 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:44:42] "[32mPOST /submit HTTP/1.1[0m" 302 -
+2020/05/31 12:44:42 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:44:42] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/31 12:44:43 - Judger - [DEBUG] Box 1 - compile - Copy the compile msg out
+2020/05/31 12:44:43 - Judger - [DEBUG] Box 1 - compile - Copy the compile_out
+2020/05/31 12:44:43 - Judger - [DEBUG] Box 1 - run - Copy the testdata 0 in
+2020/05/31 12:44:43 - Judger - [DEBUG] Box 1 - run - Run
+2020/05/31 12:44:43 - Judger - [DEBUG] Box 1 - run - Copy the output 0 out
+2020/05/31 12:44:43 - Judger - [DEBUG] Box 1 - run - Copy the out_0
+2020/05/31 12:44:43 - Judger - [DEBUG] Box 1 - checkans - Copy files
+2020/05/31 12:44:43 - Judger - [DEBUG] Box 1 - checkans - Run checkans
+2020/05/31 12:44:43 - Judger - [DEBUG] Box 1 - run - Copy the testdata 1 in
+2020/05/31 12:44:43 - Judger - [DEBUG] Box 1 - run - Run
+2020/05/31 12:44:43 - Judger - [DEBUG] Box 1 - run - Copy the output 1 out
+2020/05/31 12:44:43 - Judger - [DEBUG] Box 1 - run - Copy the out_1
+2020/05/31 12:44:43 - Judger - [DEBUG] Box 1 - checkans - Copy files
+2020/05/31 12:44:43 - Judger - [DEBUG] Box 1 - checkans - Run checkans
+2020/05/31 12:44:43 - Judger - [DEBUG] isolate box 1 cleanup
+2020/05/31 12:44:43 - Judger - [DEBUG] Result is AC
+2020/05/31 12:44:43 - Judger - [DEBUG] Thread 139954434709248 exit
+2020/05/31 12:44:43 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:44:43] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/31 12:44:53 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:44:53] "[37mGET /submit HTTP/1.1[0m" 200 -
+2020/05/31 12:44:54 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:44:54] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 12:45:02 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:45:02] "[37mGET /userinfo/erichsu HTTP/1.1[0m" 200 -
+2020/05/31 12:45:02 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:45:02] "[37mGET /static/js/jdenticon-2.1.1.min.js HTTP/1.1[0m" 200 -
+2020/05/31 12:45:02 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:45:02] "[37mGET /static/css/setting.css HTTP/1.1[0m" 200 -
+2020/05/31 12:45:02 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:45:02] "[37mGET /static/js/jdenticon-2.1.1.min.js.map HTTP/1.1[0m" 200 -
+2020/05/31 12:47:30 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:47:30] "[37mGET /userinfo/erichsu HTTP/1.1[0m" 200 -
+2020/05/31 12:47:34 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:47:34] "[37mGET /userinfo/erichsu HTTP/1.1[0m" 200 -
+2020/05/31 12:47:35 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:47:35] "[32mGET /logout HTTP/1.1[0m" 302 -
+2020/05/31 12:47:35 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:47:35] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 12:47:36 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:47:36] "[37mGET /register HTTP/1.1[0m" 200 -
+2020/05/31 12:47:39 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:47:39] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:47:42 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:47:42] "[37mGET /register HTTP/1.1[0m" 200 -
+2020/05/31 12:47:43 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:47:43] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 12:47:45 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:47:45] "[37mGET /register HTTP/1.1[0m" 200 -
+2020/05/31 12:47:50 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:47:50] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:48:08 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:48:08] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:48:10 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:48:10] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:48:11 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:48:11] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 12:48:13 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:48:13] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:48:14 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:48:14] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:48:17 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:48:17] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:48:18 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:48:18] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:48:18 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:48:18] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:48:19 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:48:19] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:48:19 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:48:19] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:48:26 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:48:26] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:48:27 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:48:27] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:48:27 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:48:27] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:48:28 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:48:28] "[37mGET /register HTTP/1.1[0m" 200 -
+2020/05/31 12:48:28 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:48:28] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:49:01 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:49:01] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:49:01 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:49:01] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:49:02 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:49:02] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:49:04 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:49:04] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 12:49:06 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:49:06] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:50:28 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:50:28] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 12:50:28 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:50:28] "[37mGET /static/css/template.css HTTP/1.1[0m" 200 -
+2020/05/31 12:50:28 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:50:28] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
+2020/05/31 12:50:28 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:50:28] "[37mGET /static/css/Rish_block.css HTTP/1.1[0m" 200 -
+2020/05/31 12:50:32 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:50:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020/05/31 12:50:41 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:50:41] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:50:41 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:50:41] "[37mGET /static/css/login.css HTTP/1.1[0m" 200 -
+2020/05/31 12:50:41 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:50:41] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:50:42 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:50:42] "[37mGET /register HTTP/1.1[0m" 200 -
+2020/05/31 12:50:43 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:50:43] "[37mGET /static/css/register.css HTTP/1.1[0m" 200 -
+2020/05/31 12:50:44 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:50:44] "[37mGET /register HTTP/1.1[0m" 200 -
+2020/05/31 12:50:47 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:50:47] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:50:48 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:50:48] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:50:49 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:50:49] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 12:50:50 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:50:50] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 12:50:52 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:50:52] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:50:53 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:50:53] "[37mGET /register HTTP/1.1[0m" 200 -
+2020/05/31 12:50:53 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:50:53] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:50:56 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:50:56] "[37mGET /register HTTP/1.1[0m" 200 -
+2020/05/31 12:50:59 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:50:59] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:50:59 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:50:59] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:51:00 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:51:00] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:51:07 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:51:07] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 12:51:13 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:51:13] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:51:15 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:51:15] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:51:36 - werkzeug - [INFO]  * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+2020/05/31 12:51:36 - werkzeug - [INFO]  * Restarting with stat
+2020/05/31 12:51:36 - werkzeug - [WARNING]  * Debugger is active!
+2020/05/31 12:51:36 - werkzeug - [INFO]  * Debugger PIN: 325-504-209
+2020/05/31 12:51:38 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:51:38] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:51:39 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:51:39] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:51:40 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:51:40] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 12:51:41 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:51:41] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 12:51:42 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:51:42] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:51:43 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:51:43] "[37mGET /register HTTP/1.1[0m" 200 -
+2020/05/31 12:51:43 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:51:43] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:52:16 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:52:16] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:52:17 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:52:17] "[37mGET /register HTTP/1.1[0m" 200 -
+2020/05/31 12:52:18 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:52:18] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:52:22 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:52:22] "[37mGET /register HTTP/1.1[0m" 200 -
+2020/05/31 12:52:22 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:52:22] "[37mGET /register HTTP/1.1[0m" 200 -
+2020/05/31 12:52:23 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:52:23] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:52:24 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:52:24] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:52:27 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:52:27] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:52:28 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:52:28] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:52:28 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:52:28] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:52:29 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:52:29] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 12:52:33 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:52:33] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:52:34 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:52:34] "[37mGET /register HTTP/1.1[0m" 200 -
+2020/05/31 12:52:40 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:52:40] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:52:56 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:52:56] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 12:52:56 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:52:56] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
+2020/05/31 12:52:56 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:52:56] "[37mGET /static/css/template.css HTTP/1.1[0m" 200 -
+2020/05/31 12:52:56 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:52:56] "[37mGET /static/css/Rish_block.css HTTP/1.1[0m" 200 -
+2020/05/31 12:52:58 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:52:58] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:52:58 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 00:52:58] "[37mGET /static/css/login.css HTTP/1.1[0m" 200 -
+2020/05/31 01:31:09 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 01:31:09] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 01:31:09 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 01:31:09] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+2020/05/31 01:31:09 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 01:31:09] "[36mGET /static/css/index.css HTTP/1.1[0m" 304 -
+2020/05/31 01:31:09 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 01:31:09] "[36mGET /static/css/Rish_block.css HTTP/1.1[0m" 304 -
+2020/05/31 01:31:09 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 01:31:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020/05/31 01:31:16 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 01:31:16] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/31 01:31:16 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 01:31:16] "[37mGET /static/css/submission.css HTTP/1.1[0m" 200 -
+2020/05/31 01:31:26 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 01:31:26] "[37mGET /problem/7 HTTP/1.1[0m" 200 -
+2020/05/31 01:31:26 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 01:31:26] "[36mGET /static/css/common.css HTTP/1.1[0m" 304 -
+2020/05/31 01:31:37 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 01:31:37] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/31 01:32:15 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 01:32:15] "[32mGET /submit HTTP/1.1[0m" 302 -
+2020/05/31 01:32:15 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 01:32:15] "[37mGET /login?next=%2Fsubmit HTTP/1.1[0m" 200 -
+2020/05/31 01:32:15 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 01:32:15] "[37mGET /static/css/login.css HTTP/1.1[0m" 200 -
+2020/05/31 01:32:16 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 01:32:16] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/31 01:32:17 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 01:32:17] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/31 01:32:33 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 01:32:33] "[37mGET /register HTTP/1.1[0m" 200 -
+2020/05/31 01:32:33 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 01:32:33] "[37mGET /static/css/register.css HTTP/1.1[0m" 200 -
+2020/05/31 01:32:37 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 01:32:37] "[37mGET /announce_list HTTP/1.1[0m" 200 -
+2020/05/31 01:32:39 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 01:32:39] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 01:33:20 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 01:33:20] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/31 01:33:49 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 01:33:49] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/31 01:33:53 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 01:33:53] "[37mGET /problem/2 HTTP/1.1[0m" 200 -
+2020/05/31 01:34:00 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 01:34:00] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/31 01:34:04 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 01:34:04] "[37mGET /problem/2 HTTP/1.1[0m" 200 -
+2020/05/31 01:34:27 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 01:34:27] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/31 01:34:31 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 01:34:31] "[37mGET /problem/3 HTTP/1.1[0m" 200 -
+2020/05/31 01:34:34 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 01:34:34] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/31 01:35:31 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 01:35:31] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/31 01:35:37 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 01:35:37] "[37mGET /problem/2 HTTP/1.1[0m" 200 -
+2020/05/31 01:35:40 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 01:35:40] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/31 02:26:55 - werkzeug - [INFO] 192.119.91.48 - - [31/May/2020 02:26:55] "[33mGET /TP/public/index.php HTTP/1.1[0m" 404 -
+2020/05/31 02:26:55 - werkzeug - [INFO] 192.119.91.48 - - [31/May/2020 02:26:55] "[33mGET /TP/index.php HTTP/1.1[0m" 404 -
+2020/05/31 02:26:56 - werkzeug - [INFO] 192.119.91.48 - - [31/May/2020 02:26:56] "[33mGET /thinkphp/html/public/index.php HTTP/1.1[0m" 404 -
+2020/05/31 02:26:56 - werkzeug - [INFO] 192.119.91.48 - - [31/May/2020 02:26:56] "[33mGET /html/public/index.php HTTP/1.1[0m" 404 -
+2020/05/31 02:26:57 - werkzeug - [INFO] 192.119.91.48 - - [31/May/2020 02:26:57] "[33mGET /public/index.php HTTP/1.1[0m" 404 -
+2020/05/31 02:26:57 - werkzeug - [INFO] 192.119.91.48 - - [31/May/2020 02:26:57] "[33mGET /TP/html/public/index.php HTTP/1.1[0m" 404 -
+2020/05/31 02:26:57 - werkzeug - [INFO] 192.119.91.48 - - [31/May/2020 02:26:57] "[33mGET /elrekt.php HTTP/1.1[0m" 404 -
+2020/05/31 02:26:58 - werkzeug - [INFO] 192.119.91.48 - - [31/May/2020 02:26:58] "[33mGET /index.php HTTP/1.1[0m" 404 -
+2020/05/31 02:26:58 - werkzeug - [INFO] 192.119.91.48 - - [31/May/2020 02:26:58] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 03:10:35 - werkzeug - [INFO] 206.189.135.73 - - [31/May/2020 03:10:35] "[37mGET / HTTP/1.0[0m" 200 -
+2020/05/31 08:29:31 - werkzeug - [INFO] 217.182.52.4 - - [31/May/2020 08:29:31] "[37mGET http://www.icanhazip.com/ HTTP/1.1[0m" 200 -
+2020/05/31 08:37:22 - werkzeug - [INFO] 111.241.215.171 - - [31/May/2020 08:37:22] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 08:37:22 - werkzeug - [INFO] 111.241.215.171 - - [31/May/2020 08:37:22] "[37mGET /static/css/template.css HTTP/1.1[0m" 200 -
+2020/05/31 08:37:22 - werkzeug - [INFO] 111.241.215.171 - - [31/May/2020 08:37:22] "[37mGET /static/css/Rish_block.css HTTP/1.1[0m" 200 -
+2020/05/31 08:37:22 - werkzeug - [INFO] 111.241.215.171 - - [31/May/2020 08:37:22] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
+2020/05/31 08:37:23 - werkzeug - [INFO] 111.241.215.171 - - [31/May/2020 08:37:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020/05/31 08:37:40 - werkzeug - [INFO] 111.241.215.171 - - [31/May/2020 08:37:40] "[37mGET /problem/1 HTTP/1.1[0m" 200 -
+2020/05/31 08:37:40 - werkzeug - [INFO] 111.241.215.171 - - [31/May/2020 08:37:40] "[37mGET /static/css/common.css HTTP/1.1[0m" 200 -
+2020/05/31 09:32:06 - werkzeug - [INFO] 217.182.52.4 - - [31/May/2020 09:32:06] "[37mGET http://www.icanhazip.com/ HTTP/1.1[0m" 200 -
+2020/05/31 09:32:08 - werkzeug - [INFO] 217.182.52.4 - - [31/May/2020 09:32:08] "[37mGET http://www.icanhazip.com/ HTTP/1.1[0m" 200 -
+2020/05/31 09:32:11 - werkzeug - [INFO] 217.182.52.4 - - [31/May/2020 09:32:11] "[37mGET http://www.icanhazip.com/ HTTP/1.1[0m" 200 -
+2020/05/31 10:01:44 - werkzeug - [INFO] 217.182.52.4 - - [31/May/2020 10:01:44] "[37mGET http://www.icanhazip.com/ HTTP/1.1[0m" 200 -
+2020/05/31 10:01:49 - werkzeug - [INFO] 217.182.52.4 - - [31/May/2020 10:01:49] "[37mGET http://www.icanhazip.com/ HTTP/1.1[0m" 200 -
+2020/05/31 10:01:53 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:01:53] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 10:01:54 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:01:54] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
+2020/05/31 10:01:54 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:01:54] "[37mGET /static/css/Rish_block.css HTTP/1.1[0m" 200 -
+2020/05/31 10:01:58 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:01:58] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/31 10:01:58 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:01:58] "[37mGET /static/css/submission.css HTTP/1.1[0m" 200 -
+2020/05/31 10:02:04 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:02:04] "[37mGET /register HTTP/1.1[0m" 200 -
+2020/05/31 10:02:04 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:02:04] "[37mGET /static/css/register.css HTTP/1.1[0m" 200 -
+2020/05/31 10:03:27 - Register - [DEBUG] hjackh chc8967 jack10430298@gmail.com
+2020/05/31 10:03:27 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:03:27] "[32mPOST /register HTTP/1.1[0m" 302 -
+2020/05/31 10:03:27 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:03:27] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 10:03:28 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:03:28] "[37mGET /static/css/login.css HTTP/1.1[0m" 200 -
+2020/05/31 10:03:35 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:03:35] "[32mPOST /login HTTP/1.1[0m" 302 -
+2020/05/31 10:03:35 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:03:35] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 10:03:46 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:03:46] "[37mGET /userinfo/hjackh HTTP/1.1[0m" 200 -
+2020/05/31 10:03:46 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:03:46] "[37mGET /static/js/jdenticon-2.1.1.min.js HTTP/1.1[0m" 200 -
+2020/05/31 10:03:46 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:03:46] "[37mGET /static/css/setting.css HTTP/1.1[0m" 200 -
+2020/05/31 10:03:46 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:03:46] "[37mGET /static/js/jdenticon-2.1.1.min.js.map HTTP/1.1[0m" 200 -
+2020/05/31 10:03:56 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:03:56] "[37mGET /userinfo/hjackh HTTP/1.1[0m" 200 -
+2020/05/31 10:03:58 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:03:58] "[37mGET /edit HTTP/1.1[0m" 200 -
+2020/05/31 10:03:58 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:03:58] "[37mGET /static/css/common.css HTTP/1.1[0m" 200 -
+2020/05/31 10:03:58 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:03:58] "[37mGET /static/css/edit.css HTTP/1.1[0m" 200 -
+2020/05/31 10:04:06 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:04:06] "[37mGET /submit HTTP/1.1[0m" 200 -
+2020/05/31 10:04:06 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:04:06] "[37mGET /static/css/submit.css HTTP/1.1[0m" 200 -
+2020/05/31 10:04:09 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:04:09] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/31 10:04:14 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:04:14] "[37mGET /problem/7 HTTP/1.1[0m" 200 -
+2020/05/31 10:05:07 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:05:07] "[37mGET /submit HTTP/1.1[0m" 200 -
+2020/05/31 10:05:12 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:05:12] "[37mGET /submit HTTP/1.1[0m" 200 -
+2020/05/31 10:05:37 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:05:37] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+2020/05/31 10:05:37 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:05:37] "[37mGET /submit?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020/05/31 10:05:37 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:05:37] "[37mGET /submit?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020/05/31 10:05:37 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:05:37] "[37mGET /submit?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020/05/31 10:05:37 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:05:37] "[37mGET /submit?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2020/05/31 10:05:37 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:05:37] "[37mGET /submit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020/05/31 10:05:37 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:05:37] "[37mGET /submit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020/05/31 10:06:12 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:06:12] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 10:06:17 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:06:17] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/31 10:06:20 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:06:20] "[37mGET /submit HTTP/1.1[0m" 200 -
+2020/05/31 10:06:22 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:06:22] "[37mGET /announce_list HTTP/1.1[0m" 200 -
+2020/05/31 10:06:23 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:06:23] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/31 10:06:29 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:06:29] "[37mGET /submit HTTP/1.1[0m" 200 -
+2020/05/31 10:06:35 - Judger - [DEBUG] Add problem pid=7 subid=5
+2020/05/31 10:06:35 - Judger - [DEBUG] isolate box 0 inited
+2020/05/31 10:06:35 - Judger - [DEBUG] Thread 139761152923392 created
+2020/05/31 10:06:35 - Judger - [DEBUG] Box 0 - compile - Write `code.cpp`
+2020/05/31 10:06:35 - Judger - [DEBUG] Box 0 - compile - Run compile cmd
+2020/05/31 10:06:35 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:06:35] "[32mPOST /submit HTTP/1.1[0m" 302 -
+2020/05/31 10:06:35 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:06:35] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/31 10:06:36 - Judger - [DEBUG] Box 0 - compile - Copy the compile msg out
+2020/05/31 10:06:36 - Judger - [DEBUG] Box 0 - compile - Copy the compile_out
+2020/05/31 10:06:36 - Judger - [DEBUG] Box 0 - run - Copy the testdata 0 in
+2020/05/31 10:06:36 - Judger - [DEBUG] Box 0 - run - Run
+2020/05/31 10:06:36 - Judger - [DEBUG] Box 0 - run - Copy the output 0 out
+2020/05/31 10:06:36 - Judger - [DEBUG] Box 0 - run - Copy the out_0
+2020/05/31 10:06:36 - Judger - [DEBUG] Box 0 - checkans - Copy files
+2020/05/31 10:06:36 - Judger - [DEBUG] Box 0 - checkans - Run checkans
+2020/05/31 10:06:36 - Judger - [DEBUG] Box 0 - run - Copy the testdata 1 in
+2020/05/31 10:06:36 - Judger - [DEBUG] Box 0 - run - Run
+2020/05/31 10:06:36 - Judger - [DEBUG] Box 0 - run - Copy the output 1 out
+2020/05/31 10:06:36 - Judger - [DEBUG] Box 0 - run - Copy the out_1
+2020/05/31 10:06:36 - Judger - [DEBUG] Box 0 - checkans - Copy files
+2020/05/31 10:06:36 - Judger - [DEBUG] Box 0 - checkans - Run checkans
+2020/05/31 10:06:36 - Judger - [DEBUG] isolate box 0 cleanup
+2020/05/31 10:06:36 - Judger - [DEBUG] Result is AC
+2020/05/31 10:06:36 - Judger - [DEBUG] Thread 139760903378688 exit
+2020/05/31 10:07:04 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:07:04] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 10:07:06 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:07:06] "[37mGET /submit HTTP/1.1[0m" 200 -
+2020/05/31 10:07:07 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:07:07] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/31 10:07:32 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:07:32] "[37mGET /announce_list HTTP/1.1[0m" 200 -
+2020/05/31 10:07:33 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:07:33] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 10:07:39 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 10:07:39] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/31 10:16:41 - werkzeug - [INFO] 217.182.52.4 - - [31/May/2020 10:16:41] "[37mGET http://www.icanhazip.com/ HTTP/1.1[0m" 200 -
+2020/05/31 10:16:42 - werkzeug - [INFO] 217.182.52.4 - - [31/May/2020 10:16:42] "[37mGET http://www.icanhazip.com/ HTTP/1.1[0m" 200 -
+2020/05/31 10:43:25 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 10:43:25] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 10:43:25 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 10:43:25] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+2020/05/31 10:43:25 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 10:43:25] "[36mGET /static/css/index.css HTTP/1.1[0m" 304 -
+2020/05/31 10:43:25 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 10:43:25] "[36mGET /static/css/Rish_block.css HTTP/1.1[0m" 304 -
+2020/05/31 10:43:32 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 10:43:32] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/31 10:43:32 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 10:43:32] "[36mGET /static/css/submission.css HTTP/1.1[0m" 304 -
+2020/05/31 11:52:53 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 11:52:53] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 11:52:58 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 11:52:58] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/31 11:54:43 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 11:54:43] "[37mGET /userinfo/hjackh HTTP/1.1[0m" 200 -
+2020/05/31 11:54:54 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 11:54:54] "[37mGET /edit HTTP/1.1[0m" 200 -
+2020/05/31 11:54:54 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 11:54:54] "[37mGET /static/css/edit.css HTTP/1.1[0m" 200 -
+2020/05/31 11:54:57 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 11:54:57] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/31 11:55:02 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 11:55:02] "[37mGET /submit HTTP/1.1[0m" 200 -
+2020/05/31 12:34:05 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 12:34:05] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 12:34:05 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 12:34:05] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+2020/05/31 12:34:05 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 12:34:05] "[37mGET /static/css/login.css HTTP/1.1[0m" 200 -
+2020/05/31 12:34:09 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 12:34:09] "[32mPOST /login HTTP/1.1[0m" 302 -
+2020/05/31 12:34:09 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 12:34:09] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 12:34:12 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 12:34:12] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/31 01:27:50 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 13:27:50] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/31 01:27:52 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 13:27:52] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/31 01:27:53 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 13:27:53] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/31 01:27:53 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 13:27:53] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/31 01:27:53 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 13:27:53] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/31 01:27:53 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 13:27:53] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/31 01:27:53 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 13:27:53] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/31 01:27:54 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 13:27:54] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/31 01:27:54 - werkzeug - [INFO] 49.159.9.193 - - [31/May/2020 13:27:54] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/31 01:31:35 - werkzeug - [INFO] 103.207.171.64 - - [31/May/2020 13:31:35] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 01:38:22 - werkzeug - [INFO] 185.216.140.6 - - [31/May/2020 13:38:22] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 02:15:40 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:15:40] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 02:15:40 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:15:40] "[37mGET /static/css/template.css HTTP/1.1[0m" 200 -
+2020/05/31 02:15:40 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:15:40] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
+2020/05/31 02:15:40 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:15:40] "[37mGET /static/css/Rish_block.css HTTP/1.1[0m" 200 -
+2020/05/31 02:15:48 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:15:48] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/31 02:15:49 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:15:49] "[37mGET /static/css/submission.css HTTP/1.1[0m" 200 -
+2020/05/31 02:16:37 - werkzeug - [INFO] 217.182.52.4 - - [31/May/2020 14:16:37] "[37mGET http://www.icanhazip.com/ HTTP/1.1[0m" 200 -
+2020/05/31 02:31:48 - werkzeug - [INFO] 217.182.52.4 - - [31/May/2020 14:31:48] "[37mGET http://www.icanhazip.com/ HTTP/1.1[0m" 200 -
+2020/05/31 02:32:23 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:32:23] "[37mGET /userinfo/Handsome_Wu HTTP/1.1[0m" 200 -
+2020/05/31 02:32:23 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:32:23] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+2020/05/31 02:32:23 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:32:23] "[36mGET /static/js/jdenticon-2.1.1.min.js HTTP/1.1[0m" 304 -
+2020/05/31 02:32:23 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:32:23] "[37mGET /static/css/setting.css HTTP/1.1[0m" 200 -
+2020/05/31 02:32:23 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:32:23] "[36mGET /static/js/jdenticon-2.1.1.min.js.map HTTP/1.1[0m" 304 -
+2020/05/31 02:32:30 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:32:30] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 02:32:31 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:32:31] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 02:32:31 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:32:31] "[37mGET /static/css/login.css HTTP/1.1[0m" 200 -
+2020/05/31 02:32:42 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:32:42] "[32mPOST /login HTTP/1.1[0m" 302 -
+2020/05/31 02:32:42 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:32:42] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 02:32:53 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:32:53] "[37mGET /announce HTTP/1.1[0m" 200 -
+2020/05/31 02:33:32 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:33:32] "[37mPOST /announce HTTP/1.1[0m" 200 -
+2020/05/31 02:33:34 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:33:34] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 02:35:19 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:35:19] "[37mGET /userinfo/erichsu HTTP/1.1[0m" 200 -
+2020/05/31 02:35:19 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:35:19] "[37mGET /static/js/jdenticon-2.1.1.min.js.map HTTP/1.1[0m" 200 -
+2020/05/31 02:35:19 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:35:19] "[37mGET /static/js/jdenticon-2.1.1.min.js HTTP/1.1[0m" 200 -
+2020/05/31 02:35:21 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:35:21] "[37mGET /edit HTTP/1.1[0m" 200 -
+2020/05/31 02:35:21 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:35:21] "[37mGET /static/css/common.css HTTP/1.1[0m" 200 -
+2020/05/31 02:35:21 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:35:21] "[37mGET /static/css/edit.css HTTP/1.1[0m" 200 -
+2020/05/31 02:35:34 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:35:34] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 02:35:36 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:35:36] "[37mGET /announce_list HTTP/1.1[0m" 200 -
+2020/05/31 02:35:37 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:35:37] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/31 02:35:42 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:35:42] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 02:35:49 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:35:49] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 02:51:47 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:51:47] "[37mGET /problem/2 HTTP/1.1[0m" 200 -
+2020/05/31 02:51:47 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:51:47] "[37mGET /static/css/common.css HTTP/1.1[0m" 200 -
+2020/05/31 02:51:47 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:51:47] "[37mGET /static/css/Rish_block.css HTTP/1.1[0m" 200 -
+2020/05/31 02:52:17 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:52:17] "[37mGET /announce_list HTTP/1.1[0m" 200 -
+2020/05/31 02:52:17 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:52:17] "[37mGET /static/css/template.css HTTP/1.1[0m" 200 -
+2020/05/31 02:52:17 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:52:17] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
+2020/05/31 02:52:18 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:52:18] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 02:52:18 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:52:18] "[37mGET /announce_list HTTP/1.1[0m" 200 -
+2020/05/31 02:52:19 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:52:19] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/31 02:52:19 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:52:19] "[37mGET /static/css/submission.css HTTP/1.1[0m" 200 -
+2020/05/31 02:52:21 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:52:21] "[37mGET /announce_list HTTP/1.1[0m" 200 -
+2020/05/31 02:52:23 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:52:23] "[37mGET /announce HTTP/1.1[0m" 200 -
+2020/05/31 02:52:23 - werkzeug - [INFO] 140.136.150.91 - - [31/May/2020 14:52:23] "[37mGET /new_problem HTTP/1.1[0m" 200 -
+2020/05/31 04:16:30 - werkzeug - [INFO] 217.182.52.4 - - [31/May/2020 16:16:30] "[37mGET http://www.icanhazip.com/ HTTP/1.1[0m" 200 -
+2020/05/31 04:31:51 - werkzeug - [INFO] 217.182.52.4 - - [31/May/2020 16:31:51] "[37mGET http://www.icanhazip.com/ HTTP/1.1[0m" 200 -
+2020/05/31 04:31:56 - werkzeug - [INFO] 217.182.52.4 - - [31/May/2020 16:31:56] "[37mGET http://www.icanhazip.com/ HTTP/1.1[0m" 200 -
+2020/05/31 04:46:43 - werkzeug - [INFO] 217.182.52.4 - - [31/May/2020 16:46:43] "[37mGET http://www.icanhazip.com/ HTTP/1.1[0m" 200 -
+2020/05/31 04:49:05 - werkzeug - [INFO] 217.182.52.4 - - [31/May/2020 16:49:05] "[37mGET http://www.icanhazip.com/ HTTP/1.1[0m" 200 -
+2020/05/31 04:49:06 - werkzeug - [INFO] 140.136.150.92 - - [31/May/2020 16:49:06] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 04:49:06 - werkzeug - [INFO] 140.136.150.92 - - [31/May/2020 16:49:06] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
+2020/05/31 04:49:06 - werkzeug - [INFO] 140.136.150.92 - - [31/May/2020 16:49:06] "[37mGET /static/css/Rish_block.css HTTP/1.1[0m" 200 -
+2020/05/31 04:49:06 - werkzeug - [INFO] 140.136.150.92 - - [31/May/2020 16:49:06] "[37mGET /static/css/template.css HTTP/1.1[0m" 200 -
+2020/05/31 04:49:07 - werkzeug - [INFO] 140.136.150.92 - - [31/May/2020 16:49:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020/05/31 04:49:11 - werkzeug - [INFO] 140.136.150.92 - - [31/May/2020 16:49:11] "[37mGET /register HTTP/1.1[0m" 200 -
+2020/05/31 04:49:11 - werkzeug - [INFO] 140.136.150.92 - - [31/May/2020 16:49:11] "[37mGET /static/css/register.css HTTP/1.1[0m" 200 -
+2020/05/31 04:49:48 - Register - [DEBUG] Nina ninaoo0210 nina1999210@gmail.com
+2020/05/31 04:49:49 - werkzeug - [INFO] 140.136.150.92 - - [31/May/2020 16:49:49] "[32mPOST /register HTTP/1.1[0m" 302 -
+2020/05/31 04:49:49 - werkzeug - [INFO] 140.136.150.92 - - [31/May/2020 16:49:49] "[37mGET /login HTTP/1.1[0m" 200 -
+2020/05/31 04:49:49 - werkzeug - [INFO] 140.136.150.92 - - [31/May/2020 16:49:49] "[37mGET /static/css/login.css HTTP/1.1[0m" 200 -
+2020/05/31 04:49:49 - werkzeug - [INFO] 140.136.150.92 - - [31/May/2020 16:49:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020/05/31 04:50:00 - werkzeug - [INFO] 140.136.150.92 - - [31/May/2020 16:50:00] "[32mPOST /login HTTP/1.1[0m" 302 -
+2020/05/31 04:50:00 - werkzeug - [INFO] 140.136.150.92 - - [31/May/2020 16:50:00] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 04:50:00 - werkzeug - [INFO] 140.136.150.92 - - [31/May/2020 16:50:00] "[37mGET /static/css/Rish_block.css HTTP/1.1[0m" 200 -
+2020/05/31 04:50:09 - werkzeug - [INFO] 140.136.150.92 - - [31/May/2020 16:50:09] "[37mGET /problem_list HTTP/1.1[0m" 200 -
+2020/05/31 04:50:09 - werkzeug - [INFO] 140.136.150.92 - - [31/May/2020 16:50:09] "[37mGET /static/css/submission.css HTTP/1.1[0m" 200 -
+2020/05/31 04:50:33 - werkzeug - [INFO] 140.136.150.92 - - [31/May/2020 16:50:33] "[37mGET /problem/3 HTTP/1.1[0m" 200 -
+2020/05/31 04:50:33 - werkzeug - [INFO] 140.136.150.92 - - [31/May/2020 16:50:33] "[37mGET /static/css/common.css HTTP/1.1[0m" 200 -
+2020/05/31 04:50:33 - werkzeug - [INFO] 140.136.150.92 - - [31/May/2020 16:50:33] "[37mGET /static/css/template.css HTTP/1.1[0m" 200 -
+2020/05/31 04:50:34 - werkzeug - [INFO] 140.136.150.92 - - [31/May/2020 16:50:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020/05/31 04:51:15 - werkzeug - [INFO] 140.136.150.92 - - [31/May/2020 16:51:15] "[37mGET /problem/2 HTTP/1.1[0m" 200 -
+2020/05/31 04:51:15 - werkzeug - [INFO] 140.136.150.92 - - [31/May/2020 16:51:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020/05/31 07:17:29 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 19:17:29] "[37mGET /submit HTTP/1.1[0m" 200 -
+2020/05/31 07:17:29 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 19:17:29] "[37mGET /static/css/submit.css HTTP/1.1[0m" 200 -
+2020/05/31 07:51:32 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 19:51:32] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 07:51:35 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 19:51:35] "[37mGET /userinfo/Nina HTTP/1.1[0m" 200 -
+2020/05/31 07:51:35 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 19:51:35] "[37mGET /static/js/jdenticon-2.1.1.min.js HTTP/1.1[0m" 200 -
+2020/05/31 07:51:35 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 19:51:35] "[37mGET /static/css/setting.css HTTP/1.1[0m" 200 -
+2020/05/31 07:51:35 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 19:51:35] "[37mGET /static/js/jdenticon-2.1.1.min.js.map HTTP/1.1[0m" 200 -
+2020/05/31 07:51:46 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 19:51:46] "[37mGET /announce/1 HTTP/1.1[0m" 200 -
+2020/05/31 07:51:46 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 19:51:46] "[37mGET /static/css/common.css HTTP/1.1[0m" 200 -
+2020/05/31 07:51:52 - werkzeug - [INFO] 180.218.52.117 - - [31/May/2020 19:51:52] "[37mGET /submissions HTTP/1.1[0m" 200 -
+2020/05/31 08:06:25 - werkzeug - [INFO] 165.227.4.106 - - [31/May/2020 20:06:25] "[37mGET / HTTP/1.0[0m" 200 -
+2020/05/31 08:14:45 - werkzeug - [INFO] 140.136.15.189 - - [31/May/2020 20:14:45] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 08:14:46 - werkzeug - [INFO] 140.136.15.189 - - [31/May/2020 20:14:46] "[37mGET / HTTP/1.1[0m" 200 -
+2020/05/31 09:35:58 - werkzeug - [INFO]  * Detected change in '/home/mscl/Desktop/FJCU_CPC_OJ/app.py', reloading
+2020/05/31 09:35:58 - werkzeug - [INFO]  * Restarting with stat
+2020/05/31 09:35:58 - werkzeug - [WARNING]  * Debugger is active!
+2020/05/31 09:35:58 - werkzeug - [INFO]  * Debugger PIN: 325-504-209

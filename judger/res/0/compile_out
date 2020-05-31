@@ -1,0 +1,4 @@
+code.cpp: In function ‘int bfs()’:
+code.cpp:51:12: warning: value computed is not used [-Wunused-value]
+     vis[S] == true;
+     ~~~~~~~^~~~~~~
